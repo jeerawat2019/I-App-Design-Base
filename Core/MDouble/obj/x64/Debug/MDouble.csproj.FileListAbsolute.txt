@@ -1,0 +1,5 @@
+C:\PDLib\Core\MDouble\bin\x64\Debug\MDouble.dll
+C:\PDLib\Core\MDouble\bin\x64\Debug\MDouble.pdb
+C:\PDLib\Core\MDouble\obj\x64\Debug\MDouble.dll
+C:\PDLib\Core\MDouble\obj\x64\Debug\MDouble.pdb
+C:\PDLib\Core\MDouble\obj\x64\Debug\MDouble.csprojResolveAssemblyReference.cache

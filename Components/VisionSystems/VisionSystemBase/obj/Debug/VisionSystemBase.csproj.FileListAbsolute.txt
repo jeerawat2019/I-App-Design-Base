@@ -1,0 +1,117 @@
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.dll
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraBaseCtl.resources
+C:\PDLib\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraPropertiesCtl.resources
+C:\PDLib\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.Properties.Resources.resources
+C:\PDLib\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.VisionJobRunPage.resources
+C:\PDLib\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csproj.GenerateResource.Cache
+C:\PDLib\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraBaseCtl.resources
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraPropertiesCtl.resources
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.Properties.Resources.resources
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.VisionJobRunPage.resources
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csproj.GenerateResource.Cache
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib x64 04-Dec-2017\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.dll
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraBaseCtl.resources
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraPropertiesCtl.resources
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.Properties.Resources.resources
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.VisionJobRunPage.resources
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csproj.GenerateResource.Cache
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib Turorial\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraBaseCtl.resources
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraPropertiesCtl.resources
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.Properties.Resources.resources
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.VisionJobRunPage.resources
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.dll
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraBaseCtl.resources
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraPropertiesCtl.resources
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.Properties.Resources.resources
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.VisionJobRunPage.resources
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csproj.GenerateResource.Cache
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib Dispense Bench\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraBaseCtl.resources
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.CameraPropertiesCtl.resources
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.Properties.Resources.resources
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.VisionJobRunPage.resources
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csproj.GenerateResource.cache
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\obj\Debug\VisionSystemBase.csproj.CopyComplete
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib Machine Template\Components\VisionSystems\VisionSystemBase\obj\Debug\MCore.Comp.VisionSystem.pdb

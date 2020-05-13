@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModbusTcpIO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Name="All IO">
+  <NextChildNo>0</NextChildNo>
+  <ChildArray>
+    <Inputs Name="Inputs">
+      <NextChildNo>0</NextChildNo>
+      <ChildArray />
+      <Simulate>None</Simulate>
+      <Enabled>true</Enabled>
+    </Inputs>
+    <Outputs Name="Outputs">
+      <NextChildNo>0</NextChildNo>
+      <Simulate>None</Simulate>
+      <Enabled>true</Enabled>
+    </Outputs>
+  </ChildArray>
+  <Simulate>None</Simulate>
+  <Enabled>true</Enabled>
+  <LogCommandScript>false</LogCommandScript>
+</ModbusTcpIO>

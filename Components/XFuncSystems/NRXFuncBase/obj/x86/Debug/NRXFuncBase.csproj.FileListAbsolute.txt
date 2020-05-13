@@ -1,0 +1,13 @@
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\x86\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\x86\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\x86\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\x86\Debug\MCore.dll
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\x86\Debug\MDouble.dll
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\x86\Debug\MCore.pdb
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\x86\Debug\MDouble.pdb
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\x86\Debug\NRXFuncBase.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\x86\Debug\MCore.Comp.XFunc.Linear3DPage.resources
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\x86\Debug\MCore.Comp.XFunc.Linear2DPage.resources
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\x86\Debug\NRXFuncBase.csproj.GenerateResource.Cache
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\x86\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\x86\Debug\MCore.Comp.XFunc.pdb

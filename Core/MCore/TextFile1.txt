@@ -1,0 +1,52 @@
+﻿SSafe structure
+
+<Core>
+	{L}<MCore>
+		<Comp>
+			CompBase.cs
+			LogController.cs
+	{L}<MDouble>
+
+<Components>
+	<MotionControllers>  
+		{L}<MotionControllerBase>
+			MotionControllerBase.cs{ ePlugIns }
+		{L}<CoolMuscle>
+
+	<IOControllers>
+		{L}<IOControllerBase>
+			IOControllerBase.cs{ ePlugIns }
+		{L}<ADLink>
+
+	<LogControllers>
+		<LogController>
+		{L}<BasicLogger>
+
+	{L}<SMLib>
+
+<Controls>
+	<SMLib>
+		{L}<SMFlowChart>
+	<MDouble>
+		{L}<MDoubleWithUnits>
+
+Solution Structure
+
+<PlugIns>
+	[CoolMuscle]
+	[ADLink]
+
+<Components>  (Non-plug in component classes)
+	[MotionControllerBase]
+	[IOControllerBase]
+	[SMLib]
+
+<Controls>
+	{L}<SMFlowChart>
+	{L}<MDoubleWithUnits>
+
+<Core>
+	[MCore]
+	[MDouble]
+
+[LaserLapper]

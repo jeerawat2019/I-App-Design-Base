@@ -1,0 +1,66 @@
+C:\PDLib x64 04-Dec-2017\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib x64 04-Dec-2017\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib x64 04-Dec-2017\Components\LogSystems\DefaultLogger\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\LogSystems\DefaultLogger\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\LogSystems\DefaultLogger\obj\Debug\LogSystem.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib x64 04-Dec-2017\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib Turorial\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib Turorial\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib Turorial\Components\LogSystems\DefaultLogger\bin\Debug\MCore.dll
+C:\PDLib Turorial\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.dll
+C:\PDLib Turorial\Components\LogSystems\DefaultLogger\bin\Debug\MCore.pdb
+C:\PDLib Turorial\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.pdb
+C:\PDLib Turorial\Components\LogSystems\DefaultLogger\obj\Debug\LogSystem.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib Turorial\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\Debug\MCore.dll
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.dll
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\Debug\MCore.pdb
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.pdb
+C:\PDLib\Components\LogSystems\DefaultLogger\obj\Debug\LogSystem.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib MDD Chart\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib MDD Chart\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib MDD Chart\Components\LogSystems\DefaultLogger\bin\Debug\MCore.dll
+C:\PDLib MDD Chart\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.dll
+C:\PDLib MDD Chart\Components\LogSystems\DefaultLogger\bin\Debug\MCore.pdb
+C:\PDLib MDD Chart\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Components\LogSystems\DefaultLogger\obj\Debug\LogSystem.csprojResolveAssemblyReference.cache
+C:\PDLib MDD Chart\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib MDD Chart\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib MDD Chart\Components\LogSystems\DefaultLogger\obj\Debug\LogSystem.csproj.CoreCompileInputs.cache
+C:\PDLib Laser Lapping\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib Laser Lapping\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib Laser Lapping\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib Laser Lapping\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib Laser Lapping\Components\LogSystems\DefaultLogger\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\LogSystems\DefaultLogger\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib Laser Lappin\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib Laser Lappin\Components\LogSystems\DefaultLogger\bin\Debug\MCore.dll
+C:\PDLib Laser Lappin\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Components\LogSystems\DefaultLogger\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\LogSystems\DefaultLogger\obj\Debug\LogSystem.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib Laser Lappin\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib Laser Lapping\Components\LogSystems\DefaultLogger\obj\Debug\LogSystem.csprojResolveAssemblyReference.cache
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\bin\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\obj\Debug\LogSystem.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\obj\Debug\LogSystem.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\obj\Debug\LogSystem.csproj.CopyComplete
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib Machine Template\Components\LogSystems\DefaultLogger\obj\Debug\MCore.Comp.LogSystem.Default.pdb

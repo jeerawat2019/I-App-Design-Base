@@ -1,0 +1,13 @@
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Release\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Release\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Release\Gigasoft.ProEssentials.Dll
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Release\MCore.dll
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Release\MDouble.dll
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Release\MCore.pdb
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Release\MDouble.pdb
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Release\NRXFuncBase.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Release\MCore.Comp.XFunc.Linear3DPage.resources
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Release\MCore.Comp.XFunc.Linear2DPage.resources
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Release\NRXFuncBase.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Release\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Release\MCore.Comp.XFunc.pdb

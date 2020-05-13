@@ -1,0 +1,711 @@
+02-12-19, 08:40:15.943, Info, U.DumpProcessUsage, 10, Dumping Processes at AppSetup1.  Current total CPU Usage=,38.42052%, time since last=,1222.1
+02-12-19, 08:40:15.951, Info, U.DumpProcessUsage, 10, Time to getProceses = 12.39 mS
+02-12-19, 08:40:16.004, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'DCOM Server Process Launcher'
+02-12-19, 08:40:16.019, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Diagnostic Policy Service'
+02-12-19, 08:40:16.034, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Group Policy Client'
+02-12-19, 08:40:16.051, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Distributed Transaction Coordinator'
+02-12-19, 08:40:16.071, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'RPC Endpoint Mapper'
+02-12-19, 08:40:16.086, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Remote Procedure Call (RPC)'
+02-12-19, 08:40:16.101, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Task Scheduler'
+02-12-19, 08:40:16.119, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Diagnostic Service Host'
+02-12-19, 08:40:16.134, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Diagnostic System Host'
+02-12-19, 08:40:16.135, Info, U.DumpProcessUsage, 10, Time to extract services = 184.81 mS
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=7684, Name=MSBuild, 0.61,(%),0.66,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=1972, Name=CorGigEServer, 0.25,(%),0.27,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'Sapera GigE Service'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=596, Name=lsm, 0.13,(%),0.14,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=5128, Name=WmiPrvSE, 0.26,(%),0.28,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=4144, Name=svchost, 0.38,(%),0.41,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'Windows Image Acquisition (WIA)'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=7692, Name=conhost, 0.25,(%),0.27,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=2572, Name=IpOverUsbSvc, 0.47,(%),0.5,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'Windows Phone IP over USB Transport (IpOverUsbSvc)'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=5924, Name=msdtc, 0.23,(%),0.25,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=1000, Name=svchost, 1.12,(%),1.2,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'Windows Audio'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'DHCP Client'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'Windows Event Log'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'TCP/IP NetBIOS Helper'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=6912, Name=WmiPrvSE, 3.42,(%),3.65,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=1792, Name=taskeng, 0.15,(%),0.16,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=1400, Name=spoolsv, 1.08,(%),1.15,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'Print Spooler'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=416, Name=csrss, 1.53,(%),1.64,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=3176, Name=FasterNow, 1.56,(%),1.67,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=5060, Name=NIWebServiceContainer, 0.29,(%),0.31,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=3196, Name=Microsoft.Alm.Shared.Remoting.RemoteContainer.dll, 2.7,(%),2.89,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=2264, Name=niDiscSvc, 0.26,(%),0.28,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'NI Network Discovery'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=1808, Name=AppleMobileDeviceService, 0.25,(%),0.27,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'Apple Mobile Device Service'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=4320, Name=lkcitdl, 0.25,(%),0.27,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'NI Citadel 4 Service'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=696, Name=svchost, 4.99,(%),5.34,(Sec)
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'Plug and Play'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, ** Service'Power'
+02-12-19, 08:40:16.140, Info, U.DumpProcessUsage, 10, Added Id=2008, Name=mDNSResponder, 0.2,(%),0.22,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Bonjour Service'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=4964, Name=NIWebServiceContainer, 1.59,(%),1.7,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=5556, Name=VSSVC, 0.23,(%),0.25,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Volume Shadow Copy'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=1620, Name=cogss_srv, 0.18,(%),0.19,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Cognex Security Service'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=5956, Name=svchost, 0.93,(%),1,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Windows Defender'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=1032, Name=svchost, 2.77,(%),2.96,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Application Experience'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Application Information'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Background Intelligent Transfer Service'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Computer Browser'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'IKE and AuthIP IPsec Keying Modules'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'IP Helper'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Server'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Multimedia Class Scheduler'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Parallels User Profile Service'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'User Profile Service'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'System Event Notification Service'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Shell Hardware Detection'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Themes'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Windows Management Instrumentation'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=3988, Name=coherence, 0.28,(%),0.3,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=4580, Name=nipxism, 0.88,(%),0.94,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'NI PXI Resource Manager'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=1232, Name=cogsls_srv, 0.2,(%),0.22,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Cognex Software Licensing Service'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=2220, Name=TSVNCache, 0.5,(%),0.53,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=3996, Name=prl_tools_service, 0.31,(%),0.33,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Parallels Tools Service'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=7772, Name=MSBuild, 0.42,(%),0.45,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=3604, Name=nidmsrv, 0.25,(%),0.27,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'NI Domain Service'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=1636, Name=dwm, 0.6,(%),0.64,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=1440, Name=svchost, 0.61,(%),0.66,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Base Filtering Engine'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Windows Firewall'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=4772, Name=NIWebServiceContainer, 0.18,(%),0.19,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=3156, Name=prl_tools, 0.29,(%),0.31,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=1248, Name=svchost, 0.7,(%),0.75,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Cryptographic Services'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'DNS Client'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Workstation'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'Network Location Awareness'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=5780, Name=SearchFilterHost, 0.19,(%),0.2,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=856, Name=PCFasterSvc, 3.12,(%),3.34,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=1648, Name=taskeng, 0.19,(%),0.2,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=3816, Name=tagsrv, 0.41,(%),0.44,(Sec)
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, ** Service'NI Variable Engine'
+02-12-19, 08:40:16.141, Info, U.DumpProcessUsage, 10, Added Id=468, Name=wininit, 0.38,(%),0.41,(Sec)
+02-12-19, 08:40:16.142, Info, U.DumpProcessUsage, 10, Added Id=2636, Name=vmware-tray, 0.32,(%),0.34,(Sec)
+02-12-19, 08:40:16.142, Info, U.DumpProcessUsage, 10, Added Id=4400, Name=lktsrv, 0.25,(%),0.27,(Sec)
+02-12-19, 08:40:16.142, Info, U.DumpProcessUsage, 10, ** Service'NI Time Synchronization'
+02-12-19, 08:40:16.142, Info, U.DumpProcessUsage, 10, Added Id=7224, Name=msvsmon, 0.72,(%),0.76,(Sec)
+02-12-19, 08:40:16.142, Info, U.DumpProcessUsage, 10, Added Id=2444, Name=prl_cc, 8.32,(%),8.89,(Sec)
+02-12-19, 08:40:16.142, Info, U.DumpProcessUsage, 10, Added Id=3036, Name=MustangSer1249, 0.16,(%),0.17,(Sec)
+02-12-19, 08:40:16.142, Info, U.DumpProcessUsage, 10, ** Service'MustangService DispalyName'
+02-12-19, 08:40:16.142, Info, U.DumpProcessUsage, 10, Added Id=1068, Name=cogremind_srv, 0.2,(%),0.22,(Sec)
+02-12-19, 08:40:16.142, Info, U.DumpProcessUsage, 10, ** Service'Cognex Reminder Service'
+02-12-19, 08:40:16.142, Info, U.DumpProcessUsage, 10, Added Id=2056, Name=AppMachine.vshost, 0.72,(%),0.76,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Thread Main GUI(8136) = 452.4 mS
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=4816, Name=vmnetdhcp, 0.2,(%),0.22,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'VMware DHCP Service'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=4972, Name=ApplicationWebServer, 1.23,(%),1.31,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'NI Application Web Server'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=5412, Name=SearchIndexer, 0.82,(%),0.87,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'Windows Search'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=488, Name=csrss, 1.85,(%),1.98,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=1080, Name=audiodg, 0.44,(%),0.47,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=4628, Name=SystemWebServer, 0.53,(%),0.56,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'NI System Web Server'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=6452, Name=WmiApSrv, 0.19,(%),0.2,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'WMI Performance Adapter'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=2424, Name=NIWebServiceContainer, 0.29,(%),0.31,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=4240, Name=vmnat, 0.22,(%),0.23,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'VMware NAT Service'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=892, Name=svchost, 0.67,(%),0.72,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=3060, Name=PCFTray, 0.55,(%),0.59,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=2864, Name=dllhost, 0.2,(%),0.22,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'PrlVssProvider'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=2472, Name=svchost, 0.88,(%),0.94,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'hpqcxs08'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'HP CUE DeviceDiscovery Service'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=6488, Name=hpqste08, 0.73,(%),0.78,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=2824, Name=lkads, 0.32,(%),0.34,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'NI PSP Service Locator'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=5732, Name=DiscSoftBusService, 0.1,(%),0.11,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'Disc Soft Lite Bus Service'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=2432, Name=vmware-hostd, 2,(%),2.14,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'VMware Workstation Server'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=5284, Name=NIWebServiceContainer, 0.19,(%),0.2,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=5632, Name=dllhost, 0.42,(%),0.45,(Sec)
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, ** Service'COM+ System Application'
+02-12-19, 08:40:16.144, Info, U.DumpProcessUsage, 10, Added Id=1496, Name=taskhost, 0.28,(%),0.3,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=2088, Name=hpqtra08, 0.47,(%),0.5,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=908, Name=svchost, 0.95,(%),1.01,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'COM+ Event System'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'Function Discovery Provider Host'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'Windows Font Cache Service'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'Network List Service'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'Network Store Interface Service'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'WinHTTP Web Proxy Auto-Discovery Service'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=2288, Name=hasplms, 0.89,(%),0.95,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'HASP License Manager'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=6016, Name=WUDFHost, 0.16,(%),0.17,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=1504, Name=CorDHCPServer, 0.26,(%),0.28,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'Sapera DHCP Server'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=324, Name=smss, 0.26,(%),0.28,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=4068, Name=coherence, 0.2,(%),0.22,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=7780, Name=conhost, 0.22,(%),0.23,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=1868, Name=PrintIsolationHost, 0.42,(%),0.45,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=3876, Name=coherence, 0.16,(%),0.17,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'Parallels Coherence Service'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=2892, Name=hpwuschd2, 0.22,(%),0.23,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=1120, Name=svchost, 0.19,(%),0.2,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=2108, Name=nierserver, 0.25,(%),0.27,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=7824, Name=MSBuild, 0.37,(%),0.39,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=536, Name=services, 1.18,(%),1.26,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=2832, Name=DeviceMonitor, 1.52,(%),1.62,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=2512, Name=svchost, 0.19,(%),0.2,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'Pml Driver HPZ12'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=7440, Name=IntelliTrace, 0.38,(%),0.41,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=4488, Name=nimdnsResponder, 0.32,(%),0.34,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'NI mDNS Responder Service'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=3424, Name=nidevldu, 0.37,(%),0.39,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'NI Device Loader'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=3112, Name=mysqld, 0.47,(%),0.5,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'MySQL56'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=7448, Name=conhost, 0.22,(%),0.23,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=4112, Name=svchost, 0.32,(%),0.34,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'SSDP Discovery'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'Windows Connect Now - Config Registrar'
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, Added Id=4692, Name=vmware-authd, 0.31,(%),0.33,(Sec)
+02-12-19, 08:40:16.145, Info, U.DumpProcessUsage, 10, ** Service'VMware Authorization Service'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=6072, Name=sppsvc, 0.74,(%),0.8,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Software Protection'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=5088, Name=niLxiDiscovery, 0.2,(%),0.22,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'NI LXI Discovery Service'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=1740, Name=explorer, 5.23,(%),5.58,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=7848, Name=conhost, 0.19,(%),0.2,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=560, Name=winlogon, 1.36,(%),1.45,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=5144, Name=WmiPrvSE, 0.88,(%),0.94,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=3280, Name=svchost, 0.32,(%),0.34,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Net Driver HPZ12'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=1352, Name=CorGigEStatus, 0.22,(%),0.23,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=3324, Name=niauth_daemon, 0.69,(%),0.73,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'NI Authentication Service'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=4116, Name=TSVNCache, 0.25,(%),0.27,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=2148, Name=CorLogServer, 0.31,(%),0.33,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Sapera Log Server'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=4908, Name=vmware-usbarbitrator64, 0.22,(%),0.23,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'VMware USB Arbitration Service'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=772, Name=PCFasterSvc, 0.89,(%),0.95,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Baidu PC Faster Service 5.1.0.0'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=6880, Name=devenv, 14.37,(%),15.35,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=380, Name=svchost, 1.72,(%),1.84,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Windows Audio Endpoint Builder'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Network Connections'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Program Compatibility Assistant Service'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Superfetch'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Desktop Window Manager Session Manager'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Portable Device Enumerator Service'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Windows Driver Foundation - User-mode Driver Framework'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=5700, Name=SearchProtocolHost, 0.15,(%),0.16,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=3732, Name=nisvcloc, 0.25,(%),0.27,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'NI Service Locator'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=6688, Name=hpqgpc01, 0.28,(%),0.3,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=4916, Name=NIWebServiceContainer, 0.16,(%),0.17,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=6528, Name=hpqbam08, 0.19,(%),0.2,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=588, Name=lsass, 1.12,(%),1.2,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'Security Accounts Manager'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Added Id=1128, Name=nimxs, 1.56,(%),1.67,(Sec)
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, ** Service'NI Configuration Manager'
+02-12-19, 08:40:16.146, Info, U.DumpProcessUsage, 10, Total time to dump = 208.09 mS
+02-12-19, 08:40:16.147, Info, CompRoot.ApplicationSetup, 10, Application Loading : AppMachine - Ver 1.0 Build 0 (Official)
+02-12-19, 08:40:16.147, Info, U.DumpProcessUsage, 10, Dumping Processes at AppSetup2.  Current total CPU Usage=,23.49234%, time since last=,208.6
+02-12-19, 08:40:16.149, Info, U.DumpProcessUsage, 10, Time to getProceses = 2.84 mS
+02-12-19, 08:40:16.163, Info, U.DumpProcessUsage, 10, Time to extract services = 13.86 mS
+02-12-19, 08:40:16.163, Info, U.DumpProcessUsage, 10, Existing Id=7224, Name=msvsmon, 53.33,(%),0.12,(Sec)
+02-12-19, 08:40:16.163, Info, U.DumpProcessUsage, 10, Existing Id=2056, Name=AppMachine.vshost, 40,(%),0.09,(Sec)
+02-12-19, 08:40:16.164, Info, U.DumpProcessUsage, 10, ** Thread Main GUI(8136) = 15.6 mS
+02-12-19, 08:40:16.165, Info, U.DumpProcessUsage, 10, Existing Id=536, Name=services, 6.67,(%),0.02,(Sec)
+02-12-19, 08:40:16.165, Info, U.DumpProcessUsage, 10, Total time to dump = 17.86 mS
+02-12-19, 08:40:16.304, Info, CompRoot.ApplicationSetup, 10, StopWatch Resolution=True
+02-12-19, 08:40:16.304, Info, CompRoot.ApplicationSetup, 10, StopWatch Frequency=10000000
+02-12-19, 08:40:16.305, Info, U.DumpProcessUsage, 10, Dumping Processes at End AppSetup.  Current total CPU Usage=,27.96127%, time since last=,157.6
+02-12-19, 08:40:16.307, Info, U.DumpProcessUsage, 10, Time to getProceses = 2.9 mS
+02-12-19, 08:40:16.322, Info, U.DumpProcessUsage, 10, Time to extract services = 15.06 mS
+02-12-19, 08:40:16.322, Info, U.DumpProcessUsage, 10, Existing Id=2056, Name=AppMachine.vshost, 90.91,(%),0.16,(Sec)
+02-12-19, 08:40:16.323, Info, U.DumpProcessUsage, 10, ** Thread Main GUI(8136) = 140.4 mS
+02-12-19, 08:40:16.323, Info, U.DumpProcessUsage, 10, Existing Id=6880, Name=devenv, 9.09,(%),0.02,(Sec)
+02-12-19, 08:40:16.323, Info, U.DumpProcessUsage, 10, Total time to dump = 19.07 mS
+02-12-19, 08:51:56.655, Info, U.DumpProcessUsage, 10, Dumping Processes at AppSetup1.  Current total CPU Usage=,0%, time since last=,1219.9
+02-12-19, 08:51:56.662, Info, U.DumpProcessUsage, 10, Time to getProceses = 9.37 mS
+02-12-19, 08:51:56.701, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'DCOM Server Process Launcher'
+02-12-19, 08:51:56.716, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Diagnostic Policy Service'
+02-12-19, 08:51:56.732, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Group Policy Client'
+02-12-19, 08:51:56.749, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Distributed Transaction Coordinator'
+02-12-19, 08:51:56.769, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'RPC Endpoint Mapper'
+02-12-19, 08:51:56.783, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Remote Procedure Call (RPC)'
+02-12-19, 08:51:56.797, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Task Scheduler'
+02-12-19, 08:51:56.815, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Diagnostic Service Host'
+02-12-19, 08:51:56.829, Info, U.DumpProcessUsage, 10, ** Service threw exception: 'Diagnostic System Host'
+02-12-19, 08:51:56.831, Info, U.DumpProcessUsage, 10, Time to extract services = 168.29 mS
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=7684, Name=MSBuild, 0.4,(%),0.66,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=1972, Name=CorGigEServer, 0.25,(%),0.42,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, ** Service'Sapera GigE Service'
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=596, Name=lsm, 0.08,(%),0.14,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=5128, Name=WmiPrvSE, 0.18,(%),0.3,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=4144, Name=svchost, 0.24,(%),0.41,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, ** Service'Windows Image Acquisition (WIA)'
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=7692, Name=conhost, 0.16,(%),0.27,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=2572, Name=IpOverUsbSvc, 0.3,(%),0.5,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, ** Service'Windows Phone IP over USB Transport (IpOverUsbSvc)'
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=5924, Name=msdtc, 0.15,(%),0.25,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=1000, Name=svchost, 0.94,(%),1.56,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, ** Service'Windows Audio'
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, ** Service'DHCP Client'
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, ** Service'Windows Event Log'
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, ** Service'TCP/IP NetBIOS Helper'
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, ** Service'Security Center'
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=8072, Name=IntelliTrace, 0.33,(%),0.55,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=6912, Name=WmiPrvSE, 2.33,(%),3.85,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=5732, Name=DiscSoftBusService, 0.07,(%),0.11,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, ** Service'Disc Soft Lite Bus Service'
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=1400, Name=spoolsv, 0.7,(%),1.15,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, ** Service'Print Spooler'
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=416, Name=csrss, 1.03,(%),1.7,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=3176, Name=FasterNow, 10.28,(%),17.04,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=5060, Name=NIWebServiceContainer, 0.19,(%),0.31,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=3196, Name=Microsoft.Alm.Shared.Remoting.RemoteContainer.dll, 1.74,(%),2.89,(Sec)
+02-12-19, 08:51:56.832, Info, U.DumpProcessUsage, 10, Added Id=2264, Name=niDiscSvc, 0.17,(%),0.28,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'NI Network Discovery'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=1808, Name=AppleMobileDeviceService, 0.36,(%),0.59,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Apple Mobile Device Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=4320, Name=lkcitdl, 0.16,(%),0.27,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'NI Citadel 4 Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=696, Name=svchost, 3.27,(%),5.41,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Plug and Play'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Power'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=2008, Name=mDNSResponder, 0.13,(%),0.22,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Bonjour Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=4964, Name=NIWebServiceContainer, 1.03,(%),1.7,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=7724, Name=msvsmon, 0.42,(%),0.7,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=1620, Name=cogss_srv, 0.11,(%),0.19,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Cognex Security Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=5956, Name=svchost, 3.58,(%),5.93,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Windows Defender'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=1032, Name=svchost, 2.28,(%),3.78,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Application Experience'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Application Information'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Background Intelligent Transfer Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Computer Browser'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'IKE and AuthIP IPsec Keying Modules'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'IP Helper'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Server'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Parallels User Profile Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'User Profile Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'System Event Notification Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Shell Hardware Detection'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Themes'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Windows Management Instrumentation'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Windows Update'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=3988, Name=coherence, 0.18,(%),0.3,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=4580, Name=nipxism, 0.57,(%),0.94,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'NI PXI Resource Manager'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=1232, Name=cogsls_srv, 0.13,(%),0.22,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Cognex Software Licensing Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=2220, Name=TSVNCache, 0.32,(%),0.53,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=3996, Name=prl_tools_service, 0.2,(%),0.33,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Parallels Tools Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=3604, Name=nidmsrv, 0.16,(%),0.27,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'NI Domain Service'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=1636, Name=dwm, 0.43,(%),0.72,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=1440, Name=svchost, 0.74,(%),1.23,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Base Filtering Engine'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Windows Firewall'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=4772, Name=NIWebServiceContainer, 0.11,(%),0.19,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=3156, Name=prl_tools, 0.2,(%),0.33,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, Added Id=1248, Name=svchost, 2.44,(%),4.04,(Sec)
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Cryptographic Services'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'DNS Client'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Workstation'
+02-12-19, 08:51:56.833, Info, U.DumpProcessUsage, 10, ** Service'Network Location Awareness'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=4972, Name=ApplicationWebServer, 0.79,(%),1.31,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'NI Application Web Server'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=7988, Name=taskeng, 0.06,(%),0.09,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=3816, Name=tagsrv, 0.27,(%),0.45,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'NI Variable Engine'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=468, Name=wininit, 0.24,(%),0.41,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=3424, Name=nidevldu, 0.24,(%),0.39,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'NI Device Loader'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=4400, Name=lktsrv, 0.17,(%),0.28,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'NI Time Synchronization'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=2444, Name=prl_cc, 6.63,(%),10.98,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=3036, Name=MustangSer1249, 0.1,(%),0.17,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'MustangService DispalyName'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=1068, Name=cogremind_srv, 0.13,(%),0.22,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'Cognex Reminder Service'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=4816, Name=vmnetdhcp, 0.13,(%),0.22,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'VMware DHCP Service'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=7772, Name=MSBuild, 0.27,(%),0.45,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=5412, Name=SearchIndexer, 0.6,(%),1,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'Windows Search'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=488, Name=csrss, 1.23,(%),2.04,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=4628, Name=SystemWebServer, 0.34,(%),0.56,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'NI System Web Server'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=2424, Name=NIWebServiceContainer, 0.19,(%),0.31,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=4240, Name=vmnat, 0.15,(%),0.25,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'VMware NAT Service'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=892, Name=svchost, 0.45,(%),0.75,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=3060, Name=PCFTray, 5.56,(%),9.2,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=2864, Name=dllhost, 0.13,(%),0.22,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'PrlVssProvider'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=2472, Name=svchost, 0.57,(%),0.94,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'hpqcxs08'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'HP CUE DeviceDiscovery Service'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=2824, Name=lkads, 0.21,(%),0.34,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'NI PSP Service Locator'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=2432, Name=vmware-hostd, 1.33,(%),2.2,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'VMware Workstation Server'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=7780, Name=conhost, 0.14,(%),0.23,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=5632, Name=dllhost, 0.41,(%),0.69,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'COM+ System Application'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=1496, Name=taskhost, 0.2,(%),0.33,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=2088, Name=hpqtra08, 0.3,(%),0.5,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=908, Name=svchost, 0.78,(%),1.29,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'COM+ Event System'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'Function Discovery Provider Host'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'Windows Font Cache Service'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'Network List Service'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'Network Store Interface Service'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'Windows Time'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'WinHTTP Web Proxy Auto-Discovery Service'
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, Added Id=2288, Name=hasplms, 0.59,(%),0.98,(Sec)
+02-12-19, 08:51:56.834, Info, U.DumpProcessUsage, 10, ** Service'HASP License Manager'
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=6016, Name=WUDFHost, 0.1,(%),0.17,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=1504, Name=CorDHCPServer, 0.17,(%),0.28,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, ** Service'Sapera DHCP Server'
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=324, Name=smss, 0.17,(%),0.28,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=3280, Name=svchost, 0.21,(%),0.34,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, ** Service'Net Driver HPZ12'
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=3876, Name=coherence, 0.1,(%),0.17,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, ** Service'Parallels Coherence Service'
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=2892, Name=hpwuschd2, 0.14,(%),0.23,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=1120, Name=svchost, 0.12,(%),0.2,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=2108, Name=nierserver, 0.16,(%),0.27,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=7824, Name=MSBuild, 0.24,(%),0.39,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=536, Name=services, 2.07,(%),3.43,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=2832, Name=DeviceMonitor, 0.98,(%),1.62,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=2636, Name=vmware-tray, 0.21,(%),0.34,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=772, Name=PCFasterSvc, 5.47,(%),9.06,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, ** Service'Baidu PC Faster Service 5.1.0.0'
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=2512, Name=svchost, 0.12,(%),0.2,(Sec)
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, ** Service'Pml Driver HPZ12'
+02-12-19, 08:51:56.835, Info, U.DumpProcessUsage, 10, Added Id=7764, Name=AppMachine.vshost, 0.61,(%),1.01,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, ** Thread Main GUI(6824) = 468 mS
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=4092, Name=PCFasterSvc, 0.61,(%),1.01,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=4488, Name=nimdnsResponder, 0.21,(%),0.34,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, ** Service'NI mDNS Responder Service'
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=3112, Name=mysqld, 0.3,(%),0.5,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, ** Service'MySQL56'
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=2128, Name=overseer, 0.1,(%),0.17,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=4112, Name=svchost, 0.21,(%),0.34,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, ** Service'SSDP Discovery'
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, ** Service'Windows Connect Now - Config Registrar'
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=4692, Name=vmware-authd, 0.5,(%),0.83,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, ** Service'VMware Authorization Service'
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=5284, Name=NIWebServiceContainer, 0.12,(%),0.2,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=5088, Name=niLxiDiscovery, 0.13,(%),0.22,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, ** Service'NI LXI Discovery Service'
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=1740, Name=explorer, 3.55,(%),5.88,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=7848, Name=conhost, 0.12,(%),0.2,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=560, Name=winlogon, 0.88,(%),1.45,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=5144, Name=WmiPrvSE, 0.57,(%),0.94,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=6468, Name=taskeng, 0.08,(%),0.14,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=1352, Name=CorGigEStatus, 0.14,(%),0.23,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=3324, Name=niauth_daemon, 0.44,(%),0.73,(Sec)
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, ** Service'NI Authentication Service'
+02-12-19, 08:51:56.836, Info, U.DumpProcessUsage, 10, Added Id=4116, Name=TSVNCache, 0.16,(%),0.27,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=2148, Name=CorLogServer, 0.2,(%),0.33,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'Sapera Log Server'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=4908, Name=vmware-usbarbitrator64, 0.14,(%),0.23,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'VMware USB Arbitration Service'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=4068, Name=coherence, 0.14,(%),0.23,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=6880, Name=devenv, 10.46,(%),17.33,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=380, Name=svchost, 5.35,(%),8.86,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'Windows Audio Endpoint Builder'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'Network Connections'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'Program Compatibility Assistant Service'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'Superfetch'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'Desktop Window Manager Session Manager'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'Windows Driver Foundation - User-mode Driver Framework'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=6488, Name=hpqste08, 0.47,(%),0.78,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=3732, Name=nisvcloc, 0.16,(%),0.27,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'NI Service Locator'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=6688, Name=hpqgpc01, 0.18,(%),0.3,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=4916, Name=NIWebServiceContainer, 0.1,(%),0.17,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=6528, Name=hpqbam08, 0.12,(%),0.2,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=7876, Name=conhost, 0.04,(%),0.06,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=588, Name=lsass, 4.04,(%),6.69,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'Security Accounts Manager'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Added Id=1128, Name=nimxs, 1.01,(%),1.67,(Sec)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, ** Service'NI Configuration Manager'
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Total time to dump = 184.04 mS
+02-12-19, 08:51:56.837, Info, CompRoot.ApplicationSetup, 10, Application Loading : AppMachine - Ver 1.0 Build 0 (Official)
+02-12-19, 08:51:56.837, Info, U.DumpProcessUsage, 10, Dumping Processes at AppSetup2.  Current total CPU Usage=,27.93435%, time since last=,184.2
+02-12-19, 08:51:56.839, Info, U.DumpProcessUsage, 10, Time to getProceses = 2.45 mS
+02-12-19, 08:51:56.855, Info, U.DumpProcessUsage, 10, Time to extract services = 14.94 mS
+02-12-19, 08:51:56.855, Info, U.DumpProcessUsage, 10, Existing Id=7724, Name=msvsmon, 81.82,(%),0.14,(Sec)
+02-12-19, 08:51:56.855, Info, U.DumpProcessUsage, 10, Existing Id=536, Name=services, 9.09,(%),0.02,(Sec)
+02-12-19, 08:51:56.855, Info, U.DumpProcessUsage, 10, Existing Id=7764, Name=AppMachine.vshost, 9.09,(%),0.02,(Sec)
+02-12-19, 08:51:56.855, Info, U.DumpProcessUsage, 10, ** Thread Main GUI(6824) = 31.2 mS
+02-12-19, 08:51:56.855, Info, U.DumpProcessUsage, 10, Total time to dump = 18.3 mS
+02-12-19, 08:51:56.962, Info, CompRoot.ApplicationSetup, 10, StopWatch Resolution=True
+02-12-19, 08:51:56.962, Info, CompRoot.ApplicationSetup, 10, StopWatch Frequency=10000000
+02-12-19, 08:51:56.964, Info, U.DumpProcessUsage, 10, Dumping Processes at End AppSetup.  Current total CPU Usage=,37.5996%, time since last=,124.8
+02-12-19, 08:51:56.966, Info, U.DumpProcessUsage, 10, Time to getProceses = 4.07 mS
+02-12-19, 08:51:56.981, Info, U.DumpProcessUsage, 10, Time to extract services = 14.67 mS
+02-12-19, 08:51:56.981, Info, U.DumpProcessUsage, 10, Existing Id=7724, Name=msvsmon, 8.33,(%),0.02,(Sec)
+02-12-19, 08:51:56.981, Info, U.DumpProcessUsage, 10, Existing Id=7764, Name=AppMachine.vshost, 58.33,(%),0.11,(Sec)
+02-12-19, 08:51:56.981, Info, U.DumpProcessUsage, 10, ** Thread Main GUI(6824) = 62.4 mS
+02-12-19, 08:51:56.982, Info, U.DumpProcessUsage, 10, Existing Id=380, Name=svchost, 33.33,(%),0.06,(Sec)
+02-12-19, 08:51:56.982, Info, U.DumpProcessUsage, 10, ** Service'Windows Audio Endpoint Builder'
+02-12-19, 08:51:56.982, Info, U.DumpProcessUsage, 10, ** Service'Network Connections'
+02-12-19, 08:51:56.982, Info, U.DumpProcessUsage, 10, ** Service'Program Compatibility Assistant Service'
+02-12-19, 08:51:56.982, Info, U.DumpProcessUsage, 10, ** Service'Superfetch'
+02-12-19, 08:51:56.982, Info, U.DumpProcessUsage, 10, ** Service'Desktop Window Manager Session Manager'
+02-12-19, 08:51:56.982, Info, U.DumpProcessUsage, 10, ** Service'Windows Driver Foundation - User-mode Driver Framework'
+02-12-19, 08:51:56.982, Info, U.DumpProcessUsage, 10, Total time to dump = 19.78 mS
+02-12-19, 08:59:30.193, Info, U.DumpProcessUsage, 9, Dumping Processes at AppSetup1.  Current total CPU Usage=,100%, time since last=,1499.6
+02-12-19, 08:59:30.200, Info, U.DumpProcessUsage, 9, Time to getProceses = 10.25 mS
+02-12-19, 08:59:30.238, Info, U.DumpProcessUsage, 9, ** Service threw exception: 'DCOM Server Process Launcher'
+02-12-19, 08:59:30.253, Info, U.DumpProcessUsage, 9, ** Service threw exception: 'Diagnostic Policy Service'
+02-12-19, 08:59:30.270, Info, U.DumpProcessUsage, 9, ** Service threw exception: 'Group Policy Client'
+02-12-19, 08:59:30.287, Info, U.DumpProcessUsage, 9, ** Service threw exception: 'Distributed Transaction Coordinator'
+02-12-19, 08:59:30.307, Info, U.DumpProcessUsage, 9, ** Service threw exception: 'RPC Endpoint Mapper'
+02-12-19, 08:59:30.321, Info, U.DumpProcessUsage, 9, ** Service threw exception: 'Remote Procedure Call (RPC)'
+02-12-19, 08:59:30.335, Info, U.DumpProcessUsage, 9, ** Service threw exception: 'Task Scheduler'
+02-12-19, 08:59:30.352, Info, U.DumpProcessUsage, 9, ** Service threw exception: 'Diagnostic Service Host'
+02-12-19, 08:59:30.366, Info, U.DumpProcessUsage, 9, ** Service threw exception: 'Diagnostic System Host'
+02-12-19, 08:59:30.368, Info, U.DumpProcessUsage, 9, Time to extract services = 167.44 mS
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, Added Id=1972, Name=CorGigEServer, 0.21,(%),0.53,(Sec)
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, ** Service'Sapera GigE Service'
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, Added Id=8096, Name=conhost, 0.03,(%),0.06,(Sec)
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, Added Id=596, Name=lsm, 0.06,(%),0.14,(Sec)
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, Added Id=5128, Name=WmiPrvSE, 0.14,(%),0.34,(Sec)
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, Added Id=4144, Name=svchost, 0.16,(%),0.41,(Sec)
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, ** Service'Windows Image Acquisition (WIA)'
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, Added Id=2572, Name=IpOverUsbSvc, 0.2,(%),0.5,(Sec)
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, ** Service'Windows Phone IP over USB Transport (IpOverUsbSvc)'
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, Added Id=7892, Name=SearchFilterHost, 0.09,(%),0.22,(Sec)
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, Added Id=5924, Name=msdtc, 0.1,(%),0.25,(Sec)
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, Added Id=1000, Name=svchost, 0.71,(%),1.78,(Sec)
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, ** Service'Windows Audio'
+02-12-19, 08:59:30.369, Info, U.DumpProcessUsage, 9, ** Service'DHCP Client'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Windows Event Log'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'TCP/IP NetBIOS Helper'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Security Center'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=7988, Name=taskeng, 0.04,(%),0.11,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=7504, Name=SysOptEngineSvc, 0.68,(%),1.68,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=5732, Name=DiscSoftBusService, 0.04,(%),0.11,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Disc Soft Lite Bus Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=1400, Name=spoolsv, 0.46,(%),1.15,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Print Spooler'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=416, Name=csrss, 0.71,(%),1.78,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=3176, Name=FasterNow, 11.57,(%),28.78,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=5060, Name=NIWebServiceContainer, 0.13,(%),0.31,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=3196, Name=Microsoft.Alm.Shared.Remoting.RemoteContainer.dll, 3.79,(%),9.44,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=2264, Name=niDiscSvc, 0.11,(%),0.28,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'NI Network Discovery'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=7984, Name=MSBuild, 0.16,(%),0.41,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=2396, Name=conhost, 0.09,(%),0.22,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=2280, Name=msvsmon, 0.29,(%),0.73,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=1808, Name=AppleMobileDeviceService, 0.32,(%),0.8,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Apple Mobile Device Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=4320, Name=lkcitdl, 0.11,(%),0.27,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'NI Citadel 4 Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=696, Name=svchost, 2.34,(%),5.83,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Plug and Play'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Power'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=2008, Name=mDNSResponder, 0.09,(%),0.22,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Bonjour Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=4964, Name=NIWebServiceContainer, 0.69,(%),1.72,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=1620, Name=cogss_srv, 0.08,(%),0.19,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Cognex Security Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=5956, Name=svchost, 3,(%),7.47,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Windows Defender'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=1032, Name=svchost, 2.19,(%),5.46,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Application Information'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Background Intelligent Transfer Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Computer Browser'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'IKE and AuthIP IPsec Keying Modules'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'IP Helper'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Server'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Parallels User Profile Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'User Profile Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'System Event Notification Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Shell Hardware Detection'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Themes'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Windows Management Instrumentation'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Windows Update'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=3988, Name=coherence, 0.12,(%),0.3,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=4580, Name=nipxism, 0.38,(%),0.95,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'NI PXI Resource Manager'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=1232, Name=cogsls_srv, 0.09,(%),0.22,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Cognex Software Licensing Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=2220, Name=TSVNCache, 0.22,(%),0.55,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=3996, Name=prl_tools_service, 0.13,(%),0.33,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'Parallels Tools Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=3604, Name=nidmsrv, 0.11,(%),0.27,(Sec)
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, ** Service'NI Domain Service'
+02-12-19, 08:59:30.370, Info, U.DumpProcessUsage, 9, Added Id=1636, Name=dwm, 0.36,(%),0.9,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=1440, Name=svchost, 0.51,(%),1.26,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'Base Filtering Engine'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'Windows Firewall'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=4772, Name=NIWebServiceContainer, 0.08,(%),0.19,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=3156, Name=prl_tools, 0.33,(%),0.83,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=1248, Name=svchost, 2.65,(%),6.58,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'Cryptographic Services'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'DNS Client'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'Workstation'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'Network Location Awareness'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=4972, Name=ApplicationWebServer, 0.53,(%),1.31,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'NI Application Web Server'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=3816, Name=tagsrv, 0.21,(%),0.51,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'NI Variable Engine'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=468, Name=wininit, 0.16,(%),0.41,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=3424, Name=nidevldu, 0.16,(%),0.39,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'NI Device Loader'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=4400, Name=lktsrv, 0.12,(%),0.3,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'NI Time Synchronization'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=2444, Name=prl_cc, 5.63,(%),14.01,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=3036, Name=MustangSer1249, 0.07,(%),0.17,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'MustangService DispalyName'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=1068, Name=cogremind_srv, 0.09,(%),0.22,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'Cognex Reminder Service'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=5124, Name=conhost, 0.09,(%),0.22,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=4816, Name=vmnetdhcp, 0.09,(%),0.22,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'VMware DHCP Service'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=7712, Name=conhost, 0.09,(%),0.22,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=5412, Name=SearchIndexer, 0.51,(%),1.26,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'Windows Search'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=488, Name=csrss, 1.27,(%),3.15,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=4628, Name=SystemWebServer, 0.23,(%),0.56,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'NI System Web Server'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=2424, Name=NIWebServiceContainer, 0.13,(%),0.31,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=4240, Name=vmnat, 0.1,(%),0.25,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'VMware NAT Service'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=892, Name=svchost, 0.31,(%),0.78,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=3060, Name=PCFTray, 6.81,(%),16.96,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=2864, Name=dllhost, 0.09,(%),0.22,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'PrlVssProvider'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=2472, Name=svchost, 0.38,(%),0.94,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'hpqcxs08'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'HP CUE DeviceDiscovery Service'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=2824, Name=lkads, 0.14,(%),0.34,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'NI PSP Service Locator'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=2432, Name=vmware-hostd, 0.9,(%),2.25,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'VMware Workstation Server'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=5632, Name=dllhost, 0.28,(%),0.69,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'COM+ System Application'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=1496, Name=taskhost, 0.14,(%),0.36,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=2088, Name=hpqtra08, 0.2,(%),0.5,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, Added Id=908, Name=svchost, 0.53,(%),1.31,(Sec)
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'COM+ Event System'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'Function Discovery Provider Host'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'Windows Font Cache Service'
+02-12-19, 08:59:30.371, Info, U.DumpProcessUsage, 9, ** Service'Network List Service'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'Network Store Interface Service'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'Windows Time'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'WinHTTP Web Proxy Auto-Discovery Service'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=2288, Name=hasplms, 0.4,(%),1,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'HASP License Manager'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=6016, Name=WUDFHost, 0.07,(%),0.17,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=3492, Name=SearchProtocolHost, 0.11,(%),0.27,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=1504, Name=CorDHCPServer, 0.11,(%),0.28,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'Sapera DHCP Server'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=324, Name=smss, 0.11,(%),0.28,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=3280, Name=svchost, 0.14,(%),0.34,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'Net Driver HPZ12'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=3876, Name=coherence, 0.07,(%),0.17,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'Parallels Coherence Service'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=2892, Name=hpwuschd2, 0.09,(%),0.23,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=1120, Name=svchost, 0.08,(%),0.2,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=7032, Name=IntelliTrace, 0.21,(%),0.53,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=2108, Name=nierserver, 0.11,(%),0.27,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=536, Name=services, 2.04,(%),5.09,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=2832, Name=DeviceMonitor, 0.65,(%),1.62,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=2636, Name=vmware-tray, 0.14,(%),0.34,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=772, Name=PCFasterSvc, 6.27,(%),15.6,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'Baidu PC Faster Service 5.1.0.0'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=2512, Name=svchost, 0.08,(%),0.2,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'Pml Driver HPZ12'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=1924, Name=CloudOPTClient, 0.12,(%),0.3,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=4092, Name=PCFasterSvc, 4.24,(%),10.56,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=4488, Name=nimdnsResponder, 0.14,(%),0.34,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'NI mDNS Responder Service'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=3112, Name=mysqld, 0.21,(%),0.51,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'MySQL56'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=4112, Name=svchost, 0.14,(%),0.34,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'SSDP Discovery'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'Windows Connect Now - Config Registrar'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=4692, Name=vmware-authd, 0.48,(%),1.2,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'VMware Authorization Service'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=5284, Name=NIWebServiceContainer, 0.08,(%),0.2,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=5088, Name=niLxiDiscovery, 0.09,(%),0.22,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'NI LXI Discovery Service'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=1740, Name=explorer, 2.52,(%),6.27,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=6468, Name=taskeng, 0.06,(%),0.14,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=560, Name=winlogon, 0.58,(%),1.45,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=5144, Name=WmiPrvSE, 0.39,(%),0.97,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=3664, Name=MSBuild, 0.32,(%),0.8,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=1352, Name=CorGigEStatus, 0.09,(%),0.23,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=3324, Name=niauth_daemon, 0.29,(%),0.73,(Sec)
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, ** Service'NI Authentication Service'
+02-12-19, 08:59:30.372, Info, U.DumpProcessUsage, 9, Added Id=5100, Name=AppMachine.vshost, 0.44,(%),1.09,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Thread Main GUI(5984) = 702 mS
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=4116, Name=TSVNCache, 0.11,(%),0.27,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=2148, Name=CorLogServer, 0.13,(%),0.33,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'Sapera Log Server'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=4908, Name=vmware-usbarbitrator64, 0.09,(%),0.23,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'VMware USB Arbitration Service'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=4068, Name=coherence, 0.09,(%),0.23,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=6880, Name=devenv, 15.15,(%),37.69,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=380, Name=svchost, 4.1,(%),10.2,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'Windows Audio Endpoint Builder'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'Network Connections'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'Program Compatibility Assistant Service'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'Superfetch'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'Desktop Window Manager Session Manager'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'Windows Driver Foundation - User-mode Driver Framework'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=6488, Name=hpqste08, 0.31,(%),0.78,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=3732, Name=nisvcloc, 0.11,(%),0.27,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'NI Service Locator'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=6688, Name=hpqgpc01, 0.12,(%),0.3,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=4916, Name=NIWebServiceContainer, 0.07,(%),0.17,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=7872, Name=MSBuild, 0.18,(%),0.44,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=6528, Name=hpqbam08, 0.08,(%),0.2,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=588, Name=lsass, 5.11,(%),12.71,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'Security Accounts Manager'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Added Id=1128, Name=nimxs, 0.67,(%),1.67,(Sec)
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, ** Service'NI Configuration Manager'
+02-12-19, 08:59:30.374, Info, U.DumpProcessUsage, 9, Total time to dump = 184.02 mS
+02-12-19, 08:59:30.374, Info, CompRoot.ApplicationSetup, 9, Application Loading : AppMachine - Ver 1.0 Build 0 (Official)
+02-12-19, 08:59:30.375, Info, U.DumpProcessUsage, 9, Dumping Processes at AppSetup2.  Current total CPU Usage=,21.5756%, time since last=,184.1
+02-12-19, 08:59:30.377, Info, U.DumpProcessUsage, 9, Time to getProceses = 2.37 mS
+02-12-19, 08:59:30.390, Info, U.DumpProcessUsage, 9, Time to extract services = 13.69 mS
+02-12-19, 08:59:30.391, Info, U.DumpProcessUsage, 9, Existing Id=2280, Name=msvsmon, 80,(%),0.12,(Sec)
+02-12-19, 08:59:30.391, Info, U.DumpProcessUsage, 9, Existing Id=536, Name=services, 10,(%),0.02,(Sec)
+02-12-19, 08:59:30.391, Info, U.DumpProcessUsage, 9, Existing Id=5100, Name=AppMachine.vshost, 10,(%),0.02,(Sec)
+02-12-19, 08:59:30.391, Info, U.DumpProcessUsage, 9, Total time to dump = 16.92 mS
+02-12-19, 08:59:30.497, Info, CompRoot.ApplicationSetup, 9, StopWatch Resolution=True
+02-12-19, 08:59:30.497, Info, CompRoot.ApplicationSetup, 9, StopWatch Frequency=10000000
+02-12-19, 08:59:30.497, Info, U.DumpProcessUsage, 9, Dumping Processes at End AppSetup.  Current total CPU Usage=,30.24341%, time since last=,122.7
+02-12-19, 08:59:30.499, Info, U.DumpProcessUsage, 9, Time to getProceses = 2.43 mS
+02-12-19, 08:59:30.513, Info, U.DumpProcessUsage, 9, Time to extract services = 13.88 mS
+02-12-19, 08:59:30.514, Info, U.DumpProcessUsage, 9, Existing Id=2280, Name=msvsmon, 10,(%),0.02,(Sec)
+02-12-19, 08:59:30.514, Info, U.DumpProcessUsage, 9, Existing Id=7032, Name=IntelliTrace, 10,(%),0.02,(Sec)
+02-12-19, 08:59:30.514, Info, U.DumpProcessUsage, 9, Existing Id=536, Name=services, 10,(%),0.02,(Sec)
+02-12-19, 08:59:30.514, Info, U.DumpProcessUsage, 9, Existing Id=5100, Name=AppMachine.vshost, 60,(%),0.09,(Sec)
+02-12-19, 08:59:30.514, Info, U.DumpProcessUsage, 9, ** Thread Main GUI(5984) = 78 mS
+02-12-19, 08:59:30.514, Info, U.DumpProcessUsage, 9, Existing Id=6880, Name=devenv, 10,(%),0.02,(Sec)
+02-12-19, 08:59:30.514, Info, U.DumpProcessUsage, 9, Total time to dump = 17.41 mS

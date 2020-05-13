@@ -1,0 +1,11 @@
+C:\PDLib\Components\Communications\TCPIP\bin\x64\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib\Components\Communications\TCPIP\bin\x64\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib\Components\Communications\TCPIP\bin\x64\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\Components\Communications\TCPIP\bin\x64\Debug\MCore.dll
+C:\PDLib\Components\Communications\TCPIP\bin\x64\Debug\MDouble.dll
+C:\PDLib\Components\Communications\TCPIP\bin\x64\Debug\MCore.pdb
+C:\PDLib\Components\Communications\TCPIP\bin\x64\Debug\MDouble.pdb
+C:\PDLib\Components\Communications\TCPIP\bin\x64\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib\Components\Communications\TCPIP\obj\x64\Debug\TCPIP.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\Communications\TCPIP\obj\x64\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib\Components\Communications\TCPIP\obj\x64\Debug\MCore.Comp.Communications.TCPIP.pdb

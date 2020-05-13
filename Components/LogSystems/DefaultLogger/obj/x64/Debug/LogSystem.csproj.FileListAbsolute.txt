@@ -1,0 +1,9 @@
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\x64\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\x64\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\x64\Debug\MCore.dll
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\x64\Debug\MDouble.dll
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\x64\Debug\MCore.pdb
+C:\PDLib\Components\LogSystems\DefaultLogger\bin\x64\Debug\MDouble.pdb
+C:\PDLib\Components\LogSystems\DefaultLogger\obj\x64\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib\Components\LogSystems\DefaultLogger\obj\x64\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib\Components\LogSystems\DefaultLogger\obj\x64\Debug\LogSystem.csprojResolveAssemblyReference.cache

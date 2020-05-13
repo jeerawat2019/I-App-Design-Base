@@ -1,0 +1,3 @@
+C:\PDLib\Components\MotionSystems\AerotechXX\obj\Debug\AerotechXX.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\MotionSystems\AerotechXX\obj\Debug\MCore.Comp.MotionSystem.AeroTechV_XXPage.resources
+C:\PDLib\Components\MotionSystems\AerotechXX\obj\Debug\AerotechXX.csproj.GenerateResource.Cache

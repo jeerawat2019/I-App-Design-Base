@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A52E042E-EDBF-474C-86BF-CBFC1EBCE0F0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MCore.Comp.MotionSystem</RootNamespace>
+    <AssemblyName>MCore.Comp.MotionSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'X86|AnyCPU'">
+    <OutputPath>bin\X86\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'X86|x86'">
+    <OutputPath>bin\x86\X86\</OutputPath>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'X86|x64'">
+    <OutputPath>bin\x64\X86\</OutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Axis\AxisTeachButtonBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Axis\AxisTeachButtonBase.Designer.cs">
+      <DependentUpon>AxisTeachButtonBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Axis\AxisTeachButtonMM.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Axis\AxisTeachButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Axis\RealRotaryPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Axis\RealRotaryPage.Designer.cs">
+      <DependentUpon>RealRotaryPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Axis\RealRotary.cs" />
+    <Compile Include="Axis\RealAxes.cs" />
+    <Compile Include="Axis\RealAxisPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Axis\RealAxisPage.Designer.cs">
+      <DependentUpon>RealAxisPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Axis\RealAxis.cs" />
+    <Compile Include="Axis\MultiPosAxis.cs" />
+    <Compile Include="Axis\MultiPosPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Axis\MultiPosPage.Designer.cs">
+      <DependentUpon>MultiPosPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Axis\SetupPSOPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Axis\SetupPSOPage.Designer.cs">
+      <DependentUpon>SetupPSOPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotionSystemBase.cs" />
+    <Compile Include="MotionSystemPlugIns.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\MCore\MCore.csproj">
+      <Project>{030D34AC-C049-458E-B87F-CBA36EE2A23C}</Project>
+      <Name>MCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Core\MDouble\MDouble.csproj">
+      <Project>{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}</Project>
+      <Name>MDouble</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\IOSystems\IOSystemBase\IOSystemBase.csproj">
+      <Project>{98a92940-2ab7-47e0-873a-73d3246dd960}</Project>
+      <Name>IOSystemBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Misc\Geometry\Geometry.csproj">
+      <Project>{5b10a0a7-141d-4d96-bbf2-be45d135e4c0}</Project>
+      <Name>Geometry</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Axis\AxisTeachButtonBase.resx">
+      <DependentUpon>AxisTeachButtonBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Axis\RealRotaryPage.resx">
+      <DependentUpon>RealRotaryPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Axis\RealAxisPage.resx">
+      <DependentUpon>RealAxisPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Axis\MultiPosPage.resx">
+      <DependentUpon>MultiPosPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Axis\SetupPSOPage.resx">
+      <DependentUpon>SetupPSOPage.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

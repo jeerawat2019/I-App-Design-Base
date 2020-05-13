@@ -1,0 +1,10 @@
+SCC = This is a Source Code Control file.
+
+[SMLib.csproj]
+SCC_Aux_Path = 
+SCC_Project_Name = $/PDLib/Components/SMLib
+
+[SMLib.sln]
+SCC_Aux_Path = 
+SCC_Project_Name = $/PDLib/Components/SMLib
+

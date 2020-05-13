@@ -1,0 +1,19 @@
+C:\PDLib\Components\DBCommunications\DBCommBase\bin\Debug\MCore.Comp.DBCommunications.DBCommBase.dll
+C:\PDLib\Components\DBCommunications\DBCommBase\bin\Debug\MCore.Comp.DBCommunications.DBCommBase.pdb
+C:\PDLib\Components\DBCommunications\DBCommBase\bin\Debug\MCore.dll
+C:\PDLib\Components\DBCommunications\DBCommBase\bin\Debug\MDouble.dll
+C:\PDLib\Components\DBCommunications\DBCommBase\bin\Debug\MCore.pdb
+C:\PDLib\Components\DBCommunications\DBCommBase\bin\Debug\MDouble.pdb
+C:\PDLib\Components\DBCommunications\DBCommBase\obj\Debug\DBCommBase.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\DBCommunications\DBCommBase\obj\Debug\MCore.Comp.DBCommunications.DBCommBase.dll
+C:\PDLib\Components\DBCommunications\DBCommBase\obj\Debug\MCore.Comp.DBCommunications.DBCommBase.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\DBCommBase\bin\Debug\MCore.Comp.DBCommunications.DBCommBase.dll
+C:\PDLib MDD Chart\Components\DBCommunications\DBCommBase\bin\Debug\MCore.Comp.DBCommunications.DBCommBase.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\DBCommBase\bin\Debug\MCore.dll
+C:\PDLib MDD Chart\Components\DBCommunications\DBCommBase\bin\Debug\MDouble.dll
+C:\PDLib MDD Chart\Components\DBCommunications\DBCommBase\bin\Debug\MCore.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\DBCommBase\bin\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\DBCommBase\obj\Debug\DBCommBase.csprojResolveAssemblyReference.cache
+C:\PDLib MDD Chart\Components\DBCommunications\DBCommBase\obj\Debug\MCore.Comp.DBCommunications.DBCommBase.dll
+C:\PDLib MDD Chart\Components\DBCommunications\DBCommBase\obj\Debug\MCore.Comp.DBCommunications.DBCommBase.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\DBCommBase\obj\Debug\DBCommBase.csproj.CoreCompileInputs.cache

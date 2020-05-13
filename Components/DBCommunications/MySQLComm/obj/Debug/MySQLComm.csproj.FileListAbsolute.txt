@@ -1,0 +1,44 @@
+C:\PDLib\Components\Communications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.MySQLComm.dll
+C:\PDLib\Components\Communications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.MySQLComm.pdb
+C:\PDLib\Components\Communications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.DBCommBase.dll
+C:\PDLib\Components\Communications\MySQLComm\bin\Debug\MCore.dll
+C:\PDLib\Components\Communications\MySQLComm\bin\Debug\MDouble.dll
+C:\PDLib\Components\Communications\MySQLComm\bin\Debug\MCore.pdb
+C:\PDLib\Components\Communications\MySQLComm\bin\Debug\MDouble.pdb
+C:\PDLib\Components\Communications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.DBCommBase.pdb
+C:\PDLib\Components\Communications\MySQLComm\obj\Debug\MySQLComm.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\Communications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.ConstructTerminal.resources
+C:\PDLib\Components\Communications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.QueryTerminal.resources
+C:\PDLib\Components\Communications\MySQLComm\obj\Debug\MySQLComm.csproj.GenerateResource.Cache
+C:\PDLib\Components\Communications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.MySQLComm.dll
+C:\PDLib\Components\Communications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.MySQLComm.pdb
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.MySQLComm.dll
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.MySQLComm.pdb
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.DBCommBase.dll
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\bin\Debug\MCore.dll
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\bin\Debug\MDouble.dll
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\bin\Debug\MCore.pdb
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\bin\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.DBCommBase.pdb
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\obj\Debug\MySQLComm.csprojResolveAssemblyReference.cache
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.ConstructTerminal.resources
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.QueryTerminal.resources
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\obj\Debug\MySQLComm.csproj.GenerateResource.Cache
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.MySQLComm.dll
+C:\PDLib MDD Chart\Components\Communications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.MySQLComm.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.MySQLComm.dll
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.MySQLComm.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.DBCommBase.dll
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\bin\Debug\MCore.dll
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\bin\Debug\MDouble.dll
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\bin\Debug\MCore.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\bin\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\bin\Debug\MCore.Comp.DBCommunications.DBCommBase.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\obj\Debug\MySQLComm.csprojResolveAssemblyReference.cache
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.ConstructTerminal.resources
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.QueryTerminal.resources
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\obj\Debug\MySQLComm.csproj.GenerateResource.Cache
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.MySQLComm.dll
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\obj\Debug\MCore.Comp.DBCommunications.MySQLComm.pdb
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\bin\Debug\MySql.Data.dll
+C:\PDLib MDD Chart\Components\DBCommunications\MySQLComm\obj\Debug\MySQLComm.csproj.CoreCompileInputs.cache

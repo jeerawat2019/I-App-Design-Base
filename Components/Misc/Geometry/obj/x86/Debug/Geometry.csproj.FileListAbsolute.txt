@@ -1,0 +1,14 @@
+C:\PDLib\Components\Misc\Geometry\obj\x86\Debug\MCore.Comp.Geometry.G3DPointCtl.resources
+C:\PDLib\Components\Misc\Geometry\obj\x86\Debug\Geometry.csproj.GenerateResource.Cache
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.dll
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MDouble.dll
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.pdb
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MDouble.pdb
+C:\PDLib\Components\Misc\Geometry\obj\x86\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\Misc\Geometry\obj\x86\Debug\MCore.Comp.Geometry.dll
+C:\PDLib\Components\Misc\Geometry\obj\x86\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib\Components\Misc\Geometry\bin\Debug\Gigasoft.ProEssentials.dll

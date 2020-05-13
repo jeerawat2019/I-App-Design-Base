@@ -1,0 +1,147 @@
+C:\PDLib Turorial\Core\MCore\bin\Debug\MCore.dll
+C:\PDLib Turorial\Core\MCore\bin\Debug\MCore.pdb
+C:\PDLib Turorial\Core\MCore\bin\Debug\MDouble.dll
+C:\PDLib Turorial\Core\MCore\bin\Debug\MDouble.pdb
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.AxisBasePage.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.RotaryBasePage.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.BrowseForFile.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.ClassPropertyForm.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.CompBasePropCtl.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.ComponentBrowser.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.AxisMoveButtonBase.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.GenericClassPropCtl.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.MBoolRadio.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.MDoubleCtl.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.MCheckBox.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.MPIDCtl.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.MDoubleWithUnits.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Controls.TransparentCtrl.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.Properties.Resources.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.ReleaseNotesForm.resources
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.csproj.GenerateResource.Cache
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.dll
+C:\PDLib Turorial\Core\MCore\obj\Debug\MCore.pdb
+C:\PDLib\Core\MCore\bin\Debug\MCore.dll
+C:\PDLib\Core\MCore\bin\Debug\MCore.pdb
+C:\PDLib\Core\MCore\bin\Debug\MDouble.dll
+C:\PDLib\Core\MCore\bin\Debug\MDouble.pdb
+C:\PDLib\Core\MCore\obj\Debug\MCore.csprojResolveAssemblyReference.cache
+C:\PDLib\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.AxisBasePage.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.RotaryBasePage.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.BrowseForFile.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.ClassPropertyForm.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.CompBasePropCtl.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.ComponentBrowser.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.AxisMoveButtonBase.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.GenericClassPropCtl.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.MBoolRadio.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.MDoubleCtl.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.MCheckBox.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.MPIDCtl.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.MDoubleWithUnits.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Controls.TransparentCtrl.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.Properties.Resources.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.ReleaseNotesForm.resources
+C:\PDLib\Core\MCore\obj\Debug\MCore.csproj.GenerateResource.Cache
+C:\PDLib\Core\MCore\obj\Debug\MCore.dll
+C:\PDLib\Core\MCore\obj\Debug\MCore.pdb
+C:\PDLib MDD Chart\Core\MCore\bin\Debug\MCore.dll
+C:\PDLib MDD Chart\Core\MCore\bin\Debug\MCore.pdb
+C:\PDLib MDD Chart\Core\MCore\bin\Debug\MDouble.dll
+C:\PDLib MDD Chart\Core\MCore\bin\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.csprojResolveAssemblyReference.cache
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.AxisBasePage.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.RotaryBasePage.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.BrowseForFile.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.ClassPropertyForm.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.CompBasePropCtl.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.ComponentBrowser.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.AxisMoveButtonBase.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.GenericClassPropCtl.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.MBoolRadio.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.MDoubleCtl.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.MCheckBox.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.MPIDCtl.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.MDoubleWithUnits.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Controls.TransparentCtrl.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.Properties.Resources.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.ReleaseNotesForm.resources
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.csproj.GenerateResource.Cache
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.dll
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.pdb
+C:\PDLib MDD Chart\Core\MCore\obj\Debug\MCore.csproj.CoreCompileInputs.cache
+C:\PDLib Laser Lappin\Core\MCore\bin\Debug\MCore.dll
+C:\PDLib Laser Lappin\Core\MCore\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Core\MCore\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Core\MCore\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.AxisBasePage.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.RotaryBasePage.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.BrowseForFile.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.ClassPropertyForm.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.CompBasePropCtl.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.ComponentBrowser.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.AxisMoveButtonBase.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.GenericClassPropCtl.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.MBoolRadio.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.MDoubleCtl.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.MCheckBox.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.MPIDCtl.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.MDoubleWithUnits.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Controls.TransparentCtrl.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.Properties.Resources.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.ReleaseNotesForm.resources
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.csproj.GenerateResource.Cache
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.dll
+C:\PDLib Laser Lappin\Core\MCore\obj\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Core\MCore\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Core\MCore\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Core\MCore\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Core\MCore\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.AxisBasePage.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.RotaryBasePage.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.BrowseForFile.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.ClassPropertyForm.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.CompBasePropCtl.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.ComponentBrowser.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.AxisMoveButtonBase.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.GenericClassPropCtl.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.MBoolRadio.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.MDoubleCtl.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.MCheckBox.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.MPIDCtl.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.MDoubleWithUnits.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Controls.TransparentCtrl.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.Properties.Resources.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.ReleaseNotesForm.resources
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.dll
+C:\PDLib Laser Lapping\Core\MCore\obj\Debug\MCore.pdb
+C:\PDLib Machine Template\Core\MCore\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Core\MCore\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Core\MCore\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Core\MCore\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.AxisBasePage.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Comp.MotionSystem.RotaryBasePage.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.BrowseForFile.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.ClassPropertyForm.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.CompBasePropCtl.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.ComponentBrowser.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.AxisMoveButtonBase.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.GenericClassPropCtl.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.MBoolRadio.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.MDoubleCtl.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.MCheckBox.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.MPIDCtl.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.MDoubleWithUnits.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Controls.TransparentCtrl.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.Properties.Resources.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.ReleaseNotesForm.resources
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.csproj.GenerateResource.cache
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.csproj.CopyComplete
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.dll
+C:\PDLib Machine Template\Core\MCore\obj\Debug\MCore.pdb

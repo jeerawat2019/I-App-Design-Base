@@ -1,0 +1,779 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace MCore.Comp.IOSystem.ADLink
+{
+    enum DAQPilot_TASK_ID
+    {
+        DAQPilot_TASK_AI = 0x0001,
+        DAQPilot_TASK_AO = 0x0002,
+        DAQPilot_TASK_DI = 0x0004,
+        DAQPilot_TASK_DO = 0x0008,
+        DAQPilot_TASK_TC = 0x0010,
+    }
+    enum DAQPilot_SUB_TASK_ID
+    {
+        DAQPilot_TASK_AI_VOLTAGE_POLLING = 0x00010000,
+        DAQPilot_TASK_AI_CURRENT_POLLING = 0x00010001,
+        DAQPilot_TASK_AI_ONESHOT = 0x00010002,
+        DAQPilot_TASK_AI_CONTINUE = 0x00010003,
+        DAQPilot_TASK_AO_VOLTAGE_OUTPUT = 0x00020000,
+        DAQPilot_TASK_AO_CURRENT_OUTPUT = 0x00020001,
+        DAQPilot_TASK_AO_ONESHOT = 0x00020002,
+        DAQPilot_TASK_AO_CONTINUE = 0x00020003,
+        DAQPilot_TASK_AO_FUNCTION_GEN = 0x00020004,
+        DAQPilot_TASK_DI_LINE_INPUT = 0x00040000,
+        DAQPilot_TASK_DI_PORT_INPUT = 0x00040001,
+        DAQPilot_TASK_DI_ONESHOT = 0x00040002,
+        DAQPilot_TASK_DI_CONTINUE = 0x00040003,
+        DAQPilot_TASK_DI_COS = 0x00040004,
+        DAQPilot_TASK_DO_LINE_OUTPUT = 0x00080000,
+        DAQPilot_TASK_DO_PORT_OUTPUT = 0x00080001,
+        DAQPilot_TASK_DO_ONESHOT = 0x00080002,
+        DAQPilot_TASK_DO_CONTINUE = 0x00080003,
+        DAQPilot_TASK_TC_COUNTER = 0x00100000,
+        DAQPilot_TASK_TC_TIMER_INTERRUPT = 0x00100001,
+        DAQPilot_TASK_TC_MODE_OPERATION = 0x00100002,
+        DAQPilot_TASK_TC_INTERRUPT = 0x00100003,
+    }
+    enum AllDeviceTypeID
+    {
+        //Global device
+        DEVICEID_NULL = 0,
+        DEVICEID_VIRTUAL_DEVICE = 1,
+        //Real device
+        DEVICEID_PCI_6208V = 10,
+        DEVICEID_PCI_6208A = 20,
+        DEVICEID_PCI_6216V = 30,
+        DEVICEID_PCI_6308V = 40,
+        DEVICEID_PCI_6308A = 50,
+        DEVICEID_PCI_7200 = 60,
+        DEVICEID_cPCI_7200 = 70,
+        DEVICEID_PCI_7230 = 80,
+        DEVICEID_PCI_7233 = 90,
+        DEVICEID_PCI_7234 = 100,
+        DEVICEID_PCI_7224 = 110,
+        DEVICEID_PCI_7248 = 120,
+        DEVICEID_PCI_7249 = 130,
+        DEVICEID_PCI_7250 = 140,
+        DEVICEID_PCI_7251 = 150,
+        DEVICEID_PCI_7252 = 160,
+        DEVICEID_PCI_7256 = 170,
+        DEVICEID_PCI_7258 = 180,
+        DEVICEID_PCI_7260 = 190,
+        DEVICEID_PCI_7296 = 200,
+        DEVICEID_PCI_7348 = 210,
+        DEVICEID_PCI_7396 = 220,
+        DEVICEID_PCI_7300A_RevA = 230,
+        DEVICEID_PCI_7300A_RevB = 240,
+        DEVICEID_PCI_7350 = 245,
+        DEVICEID_PCI_7432 = 250,
+        DEVICEID_PCI_7433 = 260,
+        DEVICEID_PCI_7434 = 270,
+
+        DEVICEID_PCI_7442 = 280,
+        DEVICEID_PCI_7443 = 290,
+        DEVICEID_PCI_7444 = 300,
+
+        DEVICEID_PCI_7452 = 310,
+
+        DEVICEID_PCI_8554 = 320,
+        DEVICEID_PCI_9111DG = 330,
+        DEVICEID_PCI_9111HR = 340,
+        DEVICEID_PCI_9112 = 350,
+        DEVICEID_PCI_9113 = 360,
+        DEVICEID_PCI_9114DG = 370,
+        DEVICEID_PCI_9114HG = 380,
+        DEVICEID_PCI_9114A_DG = 390,
+        DEVICEID_PCI_9114A_HG = 400,
+        DEVICEID_cPCI_9116 = 410,
+        DEVICEID_PCI_9118DG = 420,
+        DEVICEID_PCI_9118HG = 430,
+        DEVICEID_PCI_9118HR = 440,
+
+        DEVICEID_PCI_9221 = 450,
+        DEVICEID_PCI_9222 = 451,
+        DEVICEID_PCI_9223 = 452,
+
+        DEVICEID_PCI_9810 = 460,
+        DEVICEID_PCI_9812 = 470,
+        DEVICEID_PCI_9812A = 480,
+
+        DEVICEID_PCI_6202 = 500,
+        DEVICEID_PCI_9524 = 501,
+
+        DEVICEID_PCI_9820 = 1000,
+        DEVICEID_PXI_9816D = 1001,
+        DEVICEID_PXI_9826D = 1002,
+        DEVICEID_PXI_9846D = 1003,
+        DEVICEID_PXI_9846DW = 1004,
+        DEVICEID_PXI_9816H = 1005,
+        DEVICEID_PXI_9826H = 1006,
+        DEVICEID_PXI_9846H = 1007,
+        DEVICEID_PXI_9846HW = 1008,
+        DEVICEID_PXI_9816V = 1009,
+        DEVICEID_PXI_9826V = 1010,
+        DEVICEID_PXI_9846V = 1011,
+        DEVICEID_PXI_9846VW = 1012,
+        DEVICEID_PCI_9816D = 1021,
+        DEVICEID_PCI_9826D = 1022,
+        DEVICEID_PCI_9846D = 1023,
+        DEVICEID_PCI_9846DW = 1024,
+        DEVICEID_PCI_9816H = 1025,
+        DEVICEID_PCI_9826H = 1026,
+        DEVICEID_PCI_9846H = 1027,
+        DEVICEID_PCI_9846HW = 1028,
+        DEVICEID_PCI_9816V = 1029,
+        DEVICEID_PCI_9826V = 1030,
+        DEVICEID_PCI_9846V = 1031,
+        DEVICEID_PCI_9846VW = 1032,
+        DEVICEID_PCIE_9816D = 1041,
+        DEVICEID_PCIE_9826D = 1042,
+        DEVICEID_PCIE_9846D = 1043,
+        DEVICEID_PCIE_9846DW = 1044,
+        DEVICEID_PCIE_9816H = 1045,
+        DEVICEID_PCIE_9826H = 1046,
+        DEVICEID_PCIE_9846H = 1047,
+        DEVICEID_PCIE_9846HW = 1048,
+        DEVICEID_PCIE_9816V = 1049,
+        DEVICEID_PCIE_9826V = 1050,
+        DEVICEID_PCIE_9846V = 1051,
+        DEVICEID_PCIE_9846VW = 1052,
+
+        DEVICEID_DAQ_2005 = 1510,
+        DEVICEID_DAQ_2006 = 1520,
+        DEVICEID_DAQ_2010 = 1530,
+        DEVICEID_DAQ_2016 = 1540,
+        DEVICEID_DAQ_2204 = 1550,
+        DEVICEID_DAQ_2205 = 1560,
+        DEVICEID_DAQ_2206 = 1570,
+        DEVICEID_DAQ_2208 = 1580,
+        DEVICEID_DAQ_2213 = 1590,
+        DEVICEID_DAQ_2214 = 1600,
+        DEVICEID_DAQ_2501 = 1610,
+        DEVICEID_DAQ_2502 = 1620,
+    } //AllDeviceTypeID; 
+
+    //Channel property IDs
+    enum ChannelPropertyID
+    {
+        //Global
+        CP_Error = 0,
+        CP_ChannelNum = 1,
+        //Channel gain queue
+        CP_Enable = 50,
+        CP_Range = 51,
+        CP_RefGround = 52,
+        CP_Polarity = 53,
+        CP_IntOrExtRef = 54,
+        CP_RefVoltage = 55,
+        //DIO
+        CP_Note = 100,
+        CP_PortWidth = 101,
+        CP_PortMask = 102,
+
+        //Timer/Counter
+        CP_TimeBase = 140,
+        CP_ModeOperation = 150,
+        CP_InitialValue = 151,
+        CP_DirControl = 152,
+        CP_ClockSource = 153,
+        CP_GateSource = 154,
+        CP_UpDownSource = 155,
+        //8554 only
+        CP_DataFormat = 156,
+        //2k serials only
+        CP_InitialGateValue = 157,
+        CP_InitialUpDownValue = 158,
+        CP_DelayCount = 159,
+        CP_DurationCount = 160,
+        CP_ClockActPolarity = 161,
+        CP_GateActPolarity = 162,
+        CP_UpDownActPolarity = 163,
+        CP_OutputActPolarity = 164,
+        CP_ZPhaseClearPhase = 165,
+        CP_ZPhaseClearMode = 166,
+
+        //Function generator
+        CP_SignalType = 200,
+        CP_Frequency = 201,
+        CP_Amplitude = 202,
+        CP_Offset = 203,
+        CP_Phase = 204,
+        CP_DutyCycle = 205,
+
+        //8524 Load cell
+        CP_SpikeRejecter = 210,
+        CP_DFStage = 211,
+        CP_SPKRejThreshold = 212,
+        CP_PollSpeed = 213,
+        CP_Repeat = 214,
+
+        //98x4 AI
+        CP_Impedance = 220,
+        CP_Dither = 221,
+
+        //COS
+        CP_COS_MASK = 230,
+
+        //7350 DIO
+        CP_ChannelValue = 231,
+        CP_VoltageLevel = 232,
+        CP_TriggerOut = 233,
+        CP_TriggerOutLength = 234,
+        CP_PatternMatchLevel = 235,
+        CP_PatternMatchEdge = 236,
+        CP_SlaveAddress = 237,
+        CP_ClockPreScale = 238,
+        CP_ClockMode = 239,
+        CP_TX_Polarity = 240,
+        CP_RX_Polarity = 241,
+        CP_TransferOrder = 242,
+
+    } //ChannelPropertyID;
+
+    //Property IDs
+    enum DAQPilotPropertyID
+    {
+        //System parameter
+        DP_IN_ERROR = 0,                //Internal
+        DP_IN_GLOBAL = 1,				//Internal
+        DP_IN_CREATE_TASK = 2,			//Internal
+        DP_IN_ACTIVEX_SUPPORT = 3,		//Internal
+        DP_SYS_TASK_ID = 4,				//Enum
+        DP_IN_DASK_HANDLE = 5,		    //Internal
+        DP_IN_AUTO_BUFFER = 6,	        //Internal
+        DP_IN_WAIT_FOR_EVENT_OBJECT = 7,//Internal
+        DP_IN_TRIGGER_FIRE_SOFTWARE_TRIGGER = 8, //Internal
+
+        //Select device
+        DP_SYS_DEVICE_TYPE = 50,		//Enum
+        DP_SYS_DEVICE_INDEX = 51,       //I4
+        DP_IN_DEVICE_CHANNEL = 52,      //Internal
+        DP_DEVICE_CHANNEL_CONFIGURATION = 53, //Enum 
+
+        //Timing 
+        DP_IN_TIMING = 100,             //Internal
+        DP_TIMING_CLOCK_SOURCE = 101,   //R8
+        DP_TIMING_SCAN_RATE = 102,      //R8
+        DP_TIMING_UPDATE_RATE = 103,    //R8
+        DP_TIMING_TRANSFER_RATE = 104,  //R8
+        DP_TIMING_NUM_OF_SCAN = 105,    //UI4
+        DP_TIMING_TIMING_LIST = 106,    //Internal
+        DP_TIMING_TIMEBASE_SRC = 107,   //Enum
+        DP_TIMING_RESTART_MODE = 108,   //Enum
+        DP_TIMING_RESTART_COUNT = 109,  //I2
+
+        //Adv Timing
+        DP_TIMING_CONTINUE = 151,          //Bool
+        DP_TIMING_SAMPLING_RATE = 152,     //R8
+        DP_TIMING_SCAN_INTERVAL = 153,     //UI4
+        DP_TIMING_SAMPLE_INTERVAL = 154,   //UI4
+        DP_TIMING_UPDATE_INTERVAL = 155,   //UI4
+        DP_TIMING_ITERATION_MODE = 156,   //Enum
+        DP_TIMING_ITERATION_COUNT = 157,   //I2
+        DP_TIMING_VIRTUAL_MEMORY = 158,   //Bool
+        DP_TIMING_9111_EDO_MODE = 159,   //Enum
+        DP_TIMING_9116_COMMON_MODE = 160,  //Enum
+        DP_TIMING_9116_CONVERSION_MODE = 161,//Enum
+        DP_TIMING_9118_EXT_CLOCK_POL = 162,  //Enum
+        DP_TIMING_9118_EXT_GATE = 163,       //Enum
+        DP_TIMING_9118_BRUST_MODE = 164,     //Enum
+        DP_TIMING_9118_BRUST_COUNT = 165,    //UI4
+        DP_TIMING_9812_FREQUENCE_MODE = 166, //Enum
+        DP_TIMING_9812_EXT_TRI_CLOCK_DIVIDER = 167, //UI4
+        DP_TIMING_9820_PING_PONG = 168,      //Bool
+        DP_TIMING_9820_DUTY_RESTORE = 169,   //Bool
+        DP_TIMING_9820_TWO_STEP = 170,       //Bool
+        DP_TIMING_9820_DIAL_BUFFER = 171,    //Bool
+        DP_TIMING_9820_SSI_TIMEBASE = 172,   //Bool
+        DP_TIMING_9820_SSI_TRIGGER = 173,    //Bool
+        DP_TIMING_9820_SSI_START_AND_TRIGGER = 174, //Bool
+
+        DP_TIMING_DAQ2K_DASOURCE = 178,       //Enum
+        DP_TIMING_DAQ2K_AO_ANA_TRIG_RANGE = 179, //Enum
+        DP_TIMING_DAQ2K_AO_STOP_SOURCE = 180,    //Enum
+        DP_TIMING_DAQ2K_AO_STOP_MODE = 181,      //Enum
+        DP_TIMING_25XX_AO_UPDATE_MODE = 182,     //Enum
+
+        DP_TIMING_DAQ2K_SSI_TIMEBASE = 183,      //Bool
+        DP_TIMING_DAQ2K_SSI_CONVERT = 184,       //Bool
+        DP_TIMING_DAQ2K_SSI_ADTRIGGER = 185,     //Bool
+        DP_TIMING_DAQ2K_SSI_UPDATE = 186,        //Bool
+        DP_TIMING_DAQ2K_SSI_DATRIGGER = 187,     //Bool
+        DP_TIMING_TRIGGER_POL = 188, //only for 7200 //Enum
+        DP_TIMING_TRIGGER_WAIT = 189,//7200+7300 //Bool
+        DP_TIMING_7300_TERMINATOR = 190,         //Bool
+        DP_TIMING_7300_CLEAR_FIFO = 191,         //Bool
+        DP_TIMING_7300_DIS_DI_AFTER_DMA = 192,   //Bool
+        DP_TIMING_DI_REQ_POL = 193,//7200+7300   //Enum
+        DP_TIMING_DI_ACK_POL = 194,//only for 7300  //Enum
+        DP_TIMING_DI_TRIG_POL = 195,//only for 7300 //Enum
+        DP_TIMING_7200_DO_REQ_ENABLE = 196,       //Bool
+        DP_TIMING_7200_DO_TRIGGER_SIGN = 197,     //UI2
+        DP_TIMING_7300_TRIGGER_WAIT_STATUS = 198, //UI2
+        DP_TIMING_7300_FIFO_THRESHOLD = 199,      //UI4
+        DP_TIMING_7300_DIS_DO_AFTER_DMA = 200,    //Bool
+        DP_TIMING_DO_REQ_POL = 201,//7200+7300    //Enum
+        DP_TIMING_DO_ACK_POL = 202,//only for 7300  //Enum
+        DP_TIMING_DO_TRIG_POL = 203,//only for 7300 //Enum
+        DP_TIMING_DI_REQ_SOURCE = 204,              //Enum
+        DP_TIMING_DI_ACK_SOURCE = 205,              //Enum
+        DP_TIMING_DO_REQ_SOURCE = 206,              //Enum
+        DP_TIMING_DO_ACK_SOURCE = 207,              //Enum
+
+        //7350
+        DP_TIMING_CLOCK_EDGE = 210, //Enum
+        DP_TIMING_CLOCK_RUN_MODE = 211, //Enum
+        DP_TIMING_DIO_DDA_MODE = 212, //Enum
+        DP_TIMING_DIO_DDA_VALUE = 213, //I4
+        DP_TIMING_DIO_DPA_MODE = 214, //Enum
+        DP_TIMING_DIO_DPA_VALUE = 215, //I4
+        DP_TIMING_EXPORT_CLOCK_SOURCE = 216, //Enum
+        DP_TIMING_EXPORT_DIO_DPA_MODE = 217, //Enum
+        DP_TIMING_EXPORT_DIO_DPA_VALUE = 218, //I4
+
+        //9524 load cell
+        DP_TIMING_9524_EXCIT_VOLT = 220,
+        DP_TIMING_9524_REF_VOLT_MODE = 221,
+        DP_TIMING_9524_AUTO_ZERO_MODE = 222,
+
+        //PXI trigger line
+        DP_TIMING_PXI_TIMEBASE_LINE = 230,          //DP_TIMING_SSI_TIMEBASE
+        DP_TIMING_PXI_TRIGGER_LINE = 231,          //DP_TIMING_SSI_TRIGGER
+        DP_TIMING_PXI_START_LINE = 232,          //DP_TIMING_SSI_START_AND_TRIGGER
+
+        //Timer/Counter
+        DP_IN_TIMER_COUNTER = 250,   //Internal
+        DP_TC_TIME_INTERVAL = 251,   //UI4
+        DP_TC_8554_CK1_SOURCE = 252,     //Enum
+        DP_TC_8554_DEBOUNCE_SOURCE = 253,//Enum
+        DP_TC_TIMER_COUNTER_LIST = 254, //Internal
+
+        DP_DO_FRONT_DUMMY_BITS = 255, //7350 SPI support
+        DP_DO_TAIL_DUMMY_BITS = 256,  //7350 SPI support
+
+        /* mark for single select timer/counter
+        //Timer/Counter
+        DP_TC_MODE = 254,            //Enum
+        DP_TC_DIR_CONTROL = 255,     //Enum
+        DP_TC_CLOCK_SOURCE = 257,    //Enum
+        DP_TC_INITIAL_VALUE = 258,   //UI4
+        DP_TC_DATA_FORMAT = 259,     //Enum
+        DP_TC_GATE_SOURCE = 230,     //Enum
+        DP_TC_DIR_SOURCE = 231,       //Enum
+    
+        //Adv Timer/Counter
+        DP_TC_D2K_INITIAL_GATE = 302,    //Bool
+        DP_TC_D2K_INITIAL_UP_DOWN = 303, //Bool
+        DP_TC_D2K_DELAY_COUNT = 304,     //UI4
+        DP_TC_D2K_DURATION_COUNT = 305,  //UI4
+
+        DP_TC_D2K_CLOCK_POL = 306,       //Enum
+        DP_TC_D2K_GATE_POL = 307,        //Enum
+        DP_TC_D2K_DIR_POL = 308,         //Enum
+        DP_TC_D2K_OUTPUT_POL = 309,      //Enum
+        */
+
+        //Basic trigger
+        DP_TRIGGER_SOURCE = 400,          //Enum
+        DP_TRIGGER_MODE = 401,            //Enum
+        DP_TRIGGER_DELAY_COUNT = 402,     //UI4
+        DP_TRIGGER_POST_COUNT = 403,      //UI4
+        DP_TRIGGER_RETRIGGER_MODE = 404,  //Enum
+        DP_TRIGGER_RETRIGGER_COUNT = 405, //UI4
+        DP_TRIGGER_DIG_POLARITY = 406,    //Enum
+        DP_TRIGGER_ANA_VOLTAGE = 407,     //R8
+
+        //D2K trigger
+        DP_D2K_TRIGGER_DELAY_SOURCE = 450,    //Enum
+        DP_D2K_TRIGGER_DELAY2_SOURCE = 451,   //Enum
+        DP_D2K_TRIGGER_DELAY2_COUNT = 452,    //I4
+        DP_D2K_TRIGGER_DELAY_COUNTER_SOURCE = 453, //Enum
+        DP_D2K_TRIGGER_BREAK_DELAY_COUNTER_SOURCE = 454, //Enum
+        DP_D2K_TRIGGER_MCOUNTER_ENABLE = 455, //Bool
+        DP_D2K_TRIGGER_MCOUNTER_COUNT = 456,  //UI4
+        DP_D2K_TRIGGER_ANA_TRIG_SOURCE = 457, //Enum
+        DP_D2K_TRIGGER_ANA_TRIG_CONDITION = 458,    //Enum 
+        DP_D2K_TRIGGER_ANA_H_LEVEL = 459,     //R8
+        DP_D2K_TRIGGER_ANA_L_LEVEL = 460,     //R8
+
+        //Adv trigger
+        DP_IN_ADV_TRIGGER = 470,              //Internal
+        DP_ADV_TRIGGER_SOFTWARE_TRIG_OUT_SOURCE = 471,  //Enum
+        DP_ADV_TRIGGER_SOFTWARE_TRIG_OUT_LENGTH = 472,  //UI4
+
+        //Data
+        //DP_DATA_GET_DATA_METHOD,
+        DP_DATA_DATA_FORMAT = 500,           //Enum
+        DP_DATA_LOGFILE = 501,             //Bool
+        DP_DATA_LOGFILENAME = 502,         //String
+        DP_DATA_FILESYSTEM = 503,          //Internal
+    } //DAQPilotPropertyID;
+
+    enum DAQPilotValueID
+    {
+        //Global
+        DPV_UNDEF = 0,
+        DPV_NONE = 100,	//Don't move the DPV_NONE to low id
+        DPV_INTERNAL = 101,
+        DPV_EXTERNAL = 102,
+        DPV_SSI = 103,
+        DPV_FALSE = 104,
+        DPV_TRUE = 105,
+        DPV_DISABLE = 106,
+        DPV_ENABLE = 107,
+        DPV_POLARITY_POSITIVE = 108,
+        DPV_POLARITY_NEGATIVE = 109,
+        DPV_FALLING_EDGE = 110,
+        DPV_RISING_EDGE = 111,
+        DPV_HIGH = 112,
+        DPV_LOW = 113,
+        DPV_JUMPER = 114,
+        DPV_AFI0 = 115,
+        DPV_AFI1 = 116,
+        DPV_AFI2 = 117,
+        DPV_AFI3 = 118,
+        DPV_AFI4 = 119,
+        DPV_AFI5 = 120,
+        DPV_AFI6 = 121,
+        DPV_AFI7 = 122,
+
+        //Channel configuration
+        DPV_DEVICE_CHANNEL_ISOLATED = 170,
+        DPV_DEVICE_CHANNEL_TTL = 171,
+        DPV_DEVICE_CHANNEL_COUNTER = 172,
+        DPV_DEVICE_CHANNEL_PWM = 173,
+        DPV_DEVICE_CHANNEL_ENCODER = 174,
+        DPV_DEVICE_CHANNEL_LOAD_CELL = 175,
+        DPV_DEVICE_CHANNEL_AI = 176,
+        DPV_DEVICE_CHANNEL_PULSE_GEN = 177,
+        DPV_DEVICE_CHANNEL_DO = 178,
+        DPV_DEVICE_CHANNEL_I2C = 179,
+        DPV_DEVICE_CHANNEL_SPI = 180,
+        DPV_DEVICE_CHANNEL_COS = 181,
+        DPV_DEVICE_CHANNEL_PTN_MATCH = 182,
+
+        //All AD Range id
+        DPV_RANGE_0_V = 200,
+        DPV_RANGE_B_10_V = 201,
+        DPV_RANGE_B_5_V = 202,
+        DPV_RANGE_B_2_5_V = 203,
+        DPV_RANGE_B_2_V = 204,
+        DPV_RANGE_B_1_25_V = 205,
+        DPV_RANGE_B_1_V = 206,
+        DPV_RANGE_B_0_625_V = 207,
+        DPV_RANGE_B_0_5_V = 208,
+        DPV_RANGE_B_0_3125_V = 209,
+        DPV_RANGE_B_0_25_V = 210,
+        DPV_RANGE_B_0_2_V = 211,
+        DPV_RANGE_B_0_1_V = 212,
+        DPV_RANGE_B_0_05_V = 213,
+        DPV_RANGE_B_0_01_V = 214,
+        DPV_RANGE_B_0_005_V = 215,
+        DPV_RANGE_B_0_001_V = 216,
+        DPV_RANGE_U_20_V = 217,
+        DPV_RANGE_U_10_V = 218,
+        DPV_RANGE_U_5_V = 219,
+        DPV_RANGE_U_4_V = 220,
+        DPV_RANGE_U_2_5_V = 221,
+        DPV_RANGE_U_2_V = 222,
+        DPV_RANGE_U_1_25_V = 223,
+        DPV_RANGE_U_1_V = 224,
+        DPV_RANGE_U_0_5_V = 225,
+        DPV_RANGE_U_0_4_V = 226,
+        DPV_RANGE_U_0_1_V = 227,
+        DPV_RANGE_U_0_01_V = 228,
+        DPV_RANGE_U_0_001_V = 229,
+        //Current range support
+        DPV_RANGE_0_000_0_020_A = 250,
+        DPV_RANGE_0_004_0_020_A = 251,
+        DPV_RANGE_0_005_0_025_A = 252,
+        //AI Reference ground
+        DPV_AI_REFGROUND_RSE = 300,
+        DPV_AI_REFGROUND_DIFF = 301,
+        DPV_AI_REFGROUND_NRSE = 302,
+        //AO Polarity and external voltage
+        DPV_AO_POLARITY_BIPOLAR = 350,
+        DPV_AO_POLARITY_UNIPOLAR = 351,
+        DPV_AO_REFVOLTAGE_INTERNAL = 352,
+        DPV_AO_REFVOLTAGE_EXTERNAL = 353,
+        //AO Function generator
+        DPV_AO_SIGNAL_SIN = 400,
+        DPV_AO_SIGNAL_SQUARE = 401,
+        DPV_AO_SIGNAL_TRIANGLE = 402,
+        DPV_AO_SIGNAL_SAWTOOTH = 403,
+        DPV_AO_SIGNAL_DC = 404,
+
+        //SPI
+        DPV_DIO_CLOCK_MODE_MSB = 410,
+        DPV_DIO_CLOCK_MODE_LSB = 411,
+
+        //Timing Basic
+        DPV_TIMING_SAMPLE_INTERVAL = 450,
+        DPV_TIMING_UPDATE_INTERVAL = 451,
+        DPV_TIMING_TRANSFER_RATE = 452,
+        DPV_TIMING_ITERATION_COUNT = 453,
+        DPV_TIMING_ITERATION_INFINITE = 454,
+
+        //DPV_TIMING_CLOCK_SOURCE_PACER = 455,
+        DPV_TIMING_CLOCK_SOURCE_AFI0 = 456,
+        DPV_TIMING_CLOCK_SOURCE_AFI1 = 457,
+        DPV_TIMING_RESTART_DISABLE = 458,
+        DPV_TIMING_RESTART_COUNT = 459,
+        DPV_TIMING_RESTART_INFINITE = 460,
+
+        DPV_TIMING_9812_SIN = 470,
+        DPV_TIMING_9812_SQUARE = 471,
+
+        DPV_TIMING_CLOCK_SOURCE_STAR = 472,
+        DPV_TIMING_CLOCK_SOURCE_PLL_10M = 473,
+        DPV_TIMING_CLOCK_SOURCE_PLL_EXT = 474,
+        DPV_TIMING_CLOCK_SOURCE_HANDSHAKING = 475,
+        DPV_TIMING_7300_10M = 476,
+        DPV_TIMING_7300_20M = 477,
+        DPV_TIMING_7300_DO_CLK_TIMER_ACK = 478,
+        DPV_TIMING_7300_DO_CLK_10M_ACK = 479,
+        DPV_TIMING_7300_DO_CLK_20M_ACK = 480,
+
+        DPV_TIMING_CLOCK_SOURCE_GPI0 = 481,
+        DPV_TIMING_CLOCK_SOURCE_GPI1 = 482,
+        DPV_TIMING_CLOCK_SOURCE_GPI2 = 483,
+        DPV_TIMING_CLOCK_SOURCE_GPI3 = 484,
+        DPV_TIMING_CLOCK_SOURCE_GPI4 = 485,
+        DPV_TIMING_CLOCK_SOURCE_GPI5 = 486,
+        DPV_TIMING_CLOCK_SOURCE_GPI6 = 487,
+        DPV_TIMING_CLOCK_SOURCE_GPI7 = 488,
+
+        DPV_TIMING_CLOCK_PXI_CLK_10M = 489,
+
+        DPV_TIMING_CLOCK_SOURCE_ADCONV = 490,
+        DPV_TIMING_CLOCK_SOURCE_DACONV = 491,
+
+        DPV_TIMING_CLOCK_RUN_MODE_FREE_RUN = 492,
+        DPV_TIMING_CLOCK_RUN_MODE_HAND_SHAKE = 493,
+        DPV_TIMING_CLOCK_RUN_MODE_BURST_HAND_SHAKE = 494,
+
+        //AI advancage
+        DPV_TIMING_9111_EDO_INPUT = 500,
+        DPV_TIMING_9111_EDO_OUTPUT = 501,
+        DPV_TIMING_9111_EDO_OUTPUT_CH = 502,
+
+        DPV_TIMING_9116_LOCAL_GROUND = 503,
+        DPV_TIMING_9116_USER_DEFINE = 504,
+        DPV_TIMING_9116_CONVERSION_SP = 505,
+        DPV_TIMING_9116_CONVERSION_INT = 506,
+        DPV_TIMING_9116_CONVERSION_DMA = 507,
+
+        DPV_TIMING_9118_BRUST = 508,
+        DPV_TIMING_9118_BRUST_SAM_HOLD = 509,
+
+        DPV_TIMING_9812_FRE_MORE_THEN_PCI = 510,
+        DPV_TIMING_9812_FRE_LESS_THEN_PCI = 511,
+
+        DPV_TIMING_PORT_WIDTH_8 = 514,
+        DPV_TIMING_PORT_WIDTH_16 = 515,
+        DPV_TIMING_PORT_WIDTH_32 = 516,
+        DPV_TIMING_7300_DO_WAIT_TRIGGER = 517,
+        DPV_TIMING_7300_DO_WAIT_FIFO = 518,
+        DPV_TIMING_7300_DO_WAIT_TRIGGER_AND_FIFO = 519,
+
+        DPV_TIMING_DAQ2K_AO_STOP_SRC_SOFTWARE = 520,
+        DPV_TIMING_DAQ2K_AO_STOP_SRC_AFI0 = 521,
+        DPV_TIMING_DAQ2K_AO_STOP_SRC_ANATRIGPIN = 522,
+        DPV_TIMING_DAQ2K_AO_STOP_SRC_AFI1 = 523,
+        DPV_TIMING_DAQ2K_AO_STOP_IMMEDIATE = 524,
+        DPV_TIMING_DAQ2K_AO_STOP_NEXT_UPDATE = 525,
+        DPV_TIMING_DAQ2K_AO_STOP_ITERATION_COUNT = 526,
+        DPV_TIMING_25XX_AO_UPDATE_FIFO = 527,
+        DPV_TIMING_25XX_AO_UPDATE_DMA = 528,
+
+        //7350 support
+        DPV_TIMING_PORT_WIDTH_24 = 530,
+        DPV_TIMING_CLOCK_SOURCE_ECLK_IN = 531,
+        DPV_TIMING_CLOCK_SOURCE_ECLK_OUT = 532,
+        DPV_TIMING_CLOCK_SOURCE_ECLK_OUT_AFI6 = 533,
+        DPV_TIMING_CLOCK_SOURCE_ECLK_OUT_AFI7 = 534,
+        DPV_TIMING_DIO_DDA_LAG = 535,
+        DPV_TIMING_DIO_DDA_LEAD = 536,
+
+        DPV_TC_MODE_TOGGLE_OUTPUT = 600,
+        DPV_TC_MODE_PROG_ONE_SHOT = 601,
+        DPV_TC_MODE_RATE_GENERATOR = 602,
+        DPV_TC_MODE_SQ_WAVE_GENERATOR = 603,
+        DPV_TC_MODE_SOFT_TRIG = 604,
+        DPV_TC_MODE_HARD_TRIG = 605,
+
+        DPV_TC_MODE_GENERAL_COUNTER = 606,
+        DPV_TC_MODE_PULSE_GENERATION = 607,
+
+        DPV_TC_MODE_SIMPLE_GATE_EVENT = 608,
+        DPV_TC_MODE_SINGLE_PERIOD = 609,
+        DPV_TC_MODE_SINGLE_PULSE_WIDTH = 610,
+        DPV_TC_MODE_SINGLE_GATED_PULSE = 611,
+        DPV_TC_MODE_SINGLE_TRIG_PULSE = 612,
+        DPV_TC_MODE_RETRIG_SINGLE_PULSE = 613,
+        DPV_TC_MODE_SINGLE_TRIG_CONT_PULSE = 614,
+        DPV_TC_MODE_CONT_GATED_PULSE = 615,
+        DPV_TC_MODE_EDGE_SEPAR_MSR = 616,
+        DPV_TC_MODE_SINGLE_TRIG_PULSE_PWM = 617,
+        DPV_TC_MODE_CONT_GATED_PULSE_PWM = 618,
+        DPV_TC_MODE_CW_CCW_ENCODER = 619,
+        DPV_TC_MODE_X1_AB_PHASE_ENCODER = 620,
+        DPV_TC_MODE_X2_AB_PHASE_ENCODER = 621,
+        DPV_TC_MODE_X4_AB_PHASE_ENCODER = 622,
+        //DPV_TC_MODE_PHASE_Z = 623,
+        DPV_TC_MODE_SINGLE_PULSE = 624,
+        DPV_TC_MODE_CONT_PULSE = 625,
+        DPV_TC_MODE_CONT_PULSE_PWM = 626,
+        DPV_TC_MODE_X1_AB_PHASE_ENCODER_PHASE_Z = 627,
+        DPV_TC_MODE_X2_AB_PHASE_ENCODER_PHASE_Z = 628,
+        DPV_TC_MODE_X4_AB_PHASE_ENCODER_PHASE_Z = 629,
+        DPV_TC_MODE_PULSGEN_OUTDIR_N = 630,
+        DPV_TC_MODE_PULSGEN_OUTDIR_R = 631,
+        DPV_TC_MODE_PULSGEN_CCW = 632,
+
+        DPV_TC_DIR_CONTROL_DOWN = 650,
+        DPV_TC_DIR_CONTROL_UP = 651,
+        DPV_TC_DATA_FORMAT_BIN = 652,
+        DPV_TC_DATA_FORMAT_BCD = 653,
+        DPV_TC_8554_CK1_CLK_SRC_C8M = 654,
+        DPV_TC_8554_CK1_CLK_SRC_COUT11 = 655,
+        DPV_TC_8554_CLK_SRC_EXTERNAL = 656,
+        DPV_TC_8554_CLK_SRC_COUT_N = 657,
+        DPV_TC_8554_CLK_SRC_CK1 = 658,
+        DPV_TC_8554_CLK_SRC_COUT10 = 659,
+        DPV_TC_8554_DEBOUNCE_SOURCE_2M = 660,
+        DPV_TC_8554_DEBOUNCE_SOURCE_COUT11 = 661,
+
+        //Trigger mode
+        DPV_TRI_MODE_POST = 700,
+        DPV_TRI_MODE_DELAY = 701,
+        DPV_TRI_MODE_PRE = 702,
+        DPV_TRI_MODE_MIDDLE = 703,
+        DPV_TRI_SRC_SOFTWARE = 704,
+        DPV_TRI_SRC_DIGITAL = 705,
+        DPV_TRI_SRC_ANALOG = 706,
+        DPV_TRI_RETRI_MODE_DISABLE = 707,
+        DPV_TRI_RETRI_MODE_COUNT = 708,
+        DPV_TRI_RETRI_MODE_INFINITE = 709,
+        DPV_TRI_SRC_AFI0 = 710,
+        DPV_TRI_SRC_AFI1 = 711,
+        DPV_TRI_MODE_GATED = 712,
+
+        //Basic trigger mode
+        DPV_BAS_TRI_SRC_CH0 = 720,
+        DPV_BAS_TRI_SRC_CH1 = 721,
+        DPV_BAS_TRI_SRC_CH2 = 722,
+        DPV_BAS_TRI_SRC_CH3 = 723,
+        DPV_BAS_TRI_SRC_9820_PXI_START = 724,
+        DPV_BAS_TRI_SRC_GPI0 = 725,
+        DPV_BAS_TRI_SRC_GPI1 = 726,
+        DPV_BAS_TRI_SRC_GPI2 = 727,
+        DPV_BAS_TRI_SRC_GPI3 = 728,
+        DPV_BAS_TRI_SRC_GPI4 = 729,
+        DPV_BAS_TRI_SRC_GPI5 = 730,
+        DPV_BAS_TRI_SRC_GPI6 = 731,
+        DPV_BAS_TRI_SRC_GPI7 = 732,
+        DPV_BAS_TRI_SRC_9524_QD0 = 733,
+        DPV_BAS_TRI_SRC_9524_PG0 = 734,
+
+        //D2k Trigger
+        DPV_D2K_TRI_DELAY_SRC_TIMEBASE = 750,
+        DPV_D2K_TRI_DELAY_SRC_SAMPLES = 751,
+        DPV_D2K_TRI_DELAY_COUNTER_SRC_INTERNAL = 752,
+        DPV_D2K_TRI_DELAY_COUNTER_SRC_AFI1 = 753,
+        DPV_D2K_TRI_DELAY_COUNTER_SRC_GPTC0 = 754,
+        DPV_D2K_TRI_DELAY_COUNTER_SRC_GPTC1 = 755,
+        DPV_D2K_TRI_BRK_DELAY_COUNTER_SRC_INTERNAL = 756,
+        DPV_D2K_TRI_BRK_DELAY_COUNTER_SRC_AFI1 = 757,
+        DPV_D2K_TRI_BRK_DELAY_COUNTER_SRC_GPTC0 = 758,
+        DPV_D2K_TRI_BRK_DELAY_COUNTER_SRC_GPTC1 = 759,
+        DPV_D2K_TRI_AIO_TRI_SRC_CH0 = 760,
+        DPV_D2K_TRI_AIO_TRI_SRC_CH1 = 761,
+        DPV_D2K_TRI_AIO_TRI_SRC_CH2 = 762,
+        DPV_D2K_TRI_AIO_TRI_SRC_CH3 = 763,
+        DPV_D2K_TRI_AIO_TRI_SRC_EXT_PIN = 764,
+        DPV_D2K_TRI_AIO_TRI_SRC_CH_FIRST = 765,
+        DPV_D2K_TRI_AIO_TRI_POL_BELOW_LOW = 766,
+        DPV_D2K_TRI_AIO_TRI_POL_ABOVE_HIGH = 767,
+        DPV_D2K_TRI_AIO_TRI_POL_INSIGN_REGION = 768,
+        DPV_D2K_TRI_AIO_TRI_POL_HIGH_HYS = 769,
+        DPV_D2K_TRI_AIO_TRI_POL_LOW_HYS = 770,
+        //Data
+        DPV_DATA_GET_DATA_METHOD_CALLBACK = 800,
+        DPV_DATA_GET_DATA_METHOD_POLLING = 801,
+        DPV_DATA_GET_DATA_METHOD_EVENT = 802,
+        DPV_DATA_GET_DATA_METHOD_ALL = 803,
+        DPV_DATA_DATA_FORMAT_SCALED = 804,
+        DPV_DATA_DATA_FORMAT_BINARY = 805,
+        DPV_DATA_DATA_FORMAT_2D_SCALED = 806,
+        DPV_DATA_DATA_FORMAT_2D_BINARY = 807,
+        DPV_DATA_FILESYSTEM_WINDOWS = 810,
+        DPV_DATA_FILESYSTEM_DAQSTREAMING = 811,
+    } //DAQPilotValueID;
+
+    enum DAQPilotStatusID
+    {
+        DP_STATUS_NOERROR = 0,
+        DP_STATUS_DEVICE_STOP = 1,
+        DP_STATUS_DEVICE_RUNING = 2,
+        DP_STATUS_DEVICE_DIRTY = 4,
+        DP_STATUS_DEVICE_EVENT = 8,
+        DP_STATUS_END_FLAG = 99,
+        DP_WARNING_START_FLAG = 100,
+        DP_WARNING_CONTINUE_MODE_LOST_DATA = 101,
+        DP_WARNING_SCAN_ARE_INCOMPATIBLE_WITH_SAMPLE_INTERVAL = 102,
+        DP_WARNING_END_THREAD = 103,
+        DP_WARNING_END_FLAG = 199,
+        DP_ERR_START_FLAG = -1,
+        DP_ERR_CHANNEL_NUMBER_OUT_OF_RANGE = -2,
+        DP_ERR_CHANNEL_PROPERTY_OUT_OF_RANGE = -3,
+        DP_ERR_PROPERTY_OUT_OF_RANGE = -4,
+        DP_ERR_VALUE_OUT_OF_RANGE = -5,
+        DP_ERR_UNEXPECTED_PARAMETER_TYPE = -6,
+        DP_ERR_DEVICE_NOT_SUPPORT_ASSIGN_TASK = -7,
+        DP_ERR_FUNCTION_NOT_SUPPORT_ASSIGN_TASK = -8,
+        DP_ERR_FUNCTION_CAN_NOT_SUPPORT_MULTI_CHANNEL = -9,
+        DP_ERR_THIS_API_CAN_NOT_SUPPORT_MULTI_CHANNEL = -10,
+        DP_ERR_LOAD_CONFIG_FILE_FAILED = -11,
+        DP_ERR_CONFIG_FILE_FORMAT_ERROR = -12,
+        DP_ERR_CONFIG_FILE_ISNOT_AGENT_FORMAT = -13,
+        DP_ERR_BUILD_API_FAILED = -14,
+        DP_ERR_DEVICE_NOT_SUPPORT_FUNCTION = -15,
+        DP_ERR_DEVICE_IS_BUSY = -16,
+        DP_ERR_DEVICE_IS_STOP = -17,
+        DP_ERR_INVALIDATE_TASK_HANDLE = -18,
+        DP_ERR_INVALIDATE_PARAMETER = -19,
+        DP_ERR_INTERNAL_DASK_ERROR = -20,
+        DP_ERR_CREATE_THREAD = -21,
+        DP_ERR_OUT_OF_DRIVER_MEMORY = -22,
+        DP_ERR_D2K_AO_FIFO_NOT_SUPPORT_DOUBLE_BUFFER_MODE = -23,
+        DP_ERR_NO_ENABLE_CHANNEL = -24,
+        DP_ERR_NO_LOG_FILENAME = -25,
+        DP_ERR_REGISTER_DEVICE_FAILED = -26,
+        DP_ERR_UNREGISTER_DEVICE_FAILED = -27,
+        DP_ERR_TOO_LARGE_NUMOFSCAN_TO_SUPPORT_TRIGGER_MODE = -28,
+        DP_ERR_WAIT_FAILED = -29,
+        DP_ERR_WAIT_TIMEOUT = -30,
+        DP_ERR_SCAN_ARE_INCOMPATIBLE_WITH_SAMPLE_INTERVAL = -31,
+        DP_ERR_CLOCK_DIVIDER_NEED_EVEN_NUMBER = -32,
+        DP_ERR_OUT_OF_MEMORY = -33,
+        DP_ERR_NUMOFSCAN_ARE_INCOMPATIBLE_WITH_RETRIG_COUNT = -34,
+        DP_ERR_PERTRIGGER_COUNT_OUT_OF_RANGE = -35,
+        DP_ERR_PERTRIGGER_COUNT_IS_UNEQUAL_TO_MCOUNTER = -36,
+        DP_ERR_NUMOFSCAN_NEED_EVEN_NUMBER = -37,
+        DP_ERR_CALL_CONFIG_API_FIRST = -38,
+        DP_ERR_CHANNEL_NO_IS_NOT_ENABLE = -39,
+        DP_ERR_POST_TRIGGER_COUNT_CAN_NOT_GREAT_THAN_NUM_OF_SCAN = -40,
+        DP_ERR_RE_TRIGGER_COUNT_OUT_OF_RANGE = -41,
+        DP_ERR_BUFFER_IS_OVERWRITED = -42,
+        DP_ERR_PCI9524_DELAY_TRIGGER_NOT_SUPPORT = -43,
+        DP_ERR_PRE_MID_TRIGGER_MODE_NOT_SUPPORT = -44,
+        DP_ERR_OUTPUT_DATA_LENGTH_LESS_THAN_NUM_OF_SCAN = -45,
+        DP_ERR_WRITE_TO_READ_ONLY_PROPERTY = -46,
+        DP_ERR_END_FLAG = -9999,
+    } //DAQPilotStatusID;
+
+}

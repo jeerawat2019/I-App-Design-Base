@@ -1,0 +1,80 @@
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.Terminal.resources
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csproj.GenerateResource.Cache
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Turorial\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Turorial\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Turorial\Components\Communications\CommunicationBase\bin\Debug\MCore.dll
+C:\PDLib Turorial\Components\Communications\CommunicationBase\bin\Debug\MDouble.dll
+C:\PDLib Turorial\Components\Communications\CommunicationBase\bin\Debug\MCore.pdb
+C:\PDLib Turorial\Components\Communications\CommunicationBase\bin\Debug\MDouble.pdb
+C:\PDLib Turorial\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.Terminal.resources
+C:\PDLib Turorial\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csproj.GenerateResource.Cache
+C:\PDLib Turorial\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Turorial\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib\Components\Communications\CommunicationBase\bin\Debug\MCore.dll
+C:\PDLib\Components\Communications\CommunicationBase\bin\Debug\MDouble.dll
+C:\PDLib\Components\Communications\CommunicationBase\bin\Debug\MCore.pdb
+C:\PDLib\Components\Communications\CommunicationBase\bin\Debug\MDouble.pdb
+C:\PDLib\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.Terminal.resources
+C:\PDLib\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csproj.GenerateResource.Cache
+C:\PDLib\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\bin\Debug\MCore.dll
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\bin\Debug\MDouble.dll
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\bin\Debug\MCore.pdb
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\bin\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csprojResolveAssemblyReference.cache
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.Terminal.resources
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csproj.GenerateResource.Cache
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib MDD Chart\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csproj.CoreCompileInputs.cache
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.Terminal.resources
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\Communications\CommunicationBase\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\bin\Debug\MCore.dll
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.Terminal.resources
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csproj.GenerateResource.Cache
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Laser Lappin\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.Terminal.resources
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csproj.GenerateResource.cache
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\obj\Debug\CommunicationBase.csproj.CopyComplete
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Machine Template\Components\Communications\CommunicationBase\obj\Debug\MCore.Comp.Communications.CommunicationBase.pdb

@@ -1,0 +1,14 @@
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\MCore.Comp.IOSystem.ModbusTcpIO.dll
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\MCore.Comp.IOSystem.ModbusTcpIO.pdb
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\MCore.Comp.IOSystem.dll
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\MCore.dll
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\MDouble.dll
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\MCore.pdb
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\MDouble.pdb
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\MCore.Comp.IOSystem.pdb
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\bin\Release\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\obj\Release\ModbusTcpIOV3.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\obj\Release\MCore.Comp.IOSystem.ModbusTcpIO.dll
+C:\PDLib Laser Lapping\Components\IOSystems\ModbusTcpIOV3\obj\Release\MCore.Comp.IOSystem.ModbusTcpIO.pdb

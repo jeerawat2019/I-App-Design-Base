@@ -1,0 +1,80 @@
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.dll
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.dll
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.pdb
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.pdb
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear3DPage.resources
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear2DPage.resources
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csproj.GenerateResource.Cache
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\bin\Debug\Gigasoft.ProEssentials.Dll
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear3DPage.resources
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear2DPage.resources
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csproj.GenerateResource.Cache
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.dll
+C:\PDLib x64 04-Dec-2017\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\bin\Debug\Gigasoft.ProEssentials.Dll
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.dll
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.dll
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.pdb
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.pdb
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear3DPage.resources
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear2DPage.resources
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csproj.GenerateResource.Cache
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Turorial\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\bin\Debug\Gigasoft.ProEssentials.Dll
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.dll
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear3DPage.resources
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear2DPage.resources
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csproj.GenerateResource.Cache
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lappin\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Debug\Gigasoft.ProEssentials.Dll
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear3DPage.resources
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear2DPage.resources
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\bin\Debug\Gigasoft.ProEssentials.Dll
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear3DPage.resources
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.Linear2DPage.resources
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csproj.GenerateResource.cache
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\obj\Debug\NRXFuncBase.csproj.CopyComplete
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Machine Template\Components\XFuncSystems\NRXFuncBase\obj\Debug\MCore.Comp.XFunc.pdb

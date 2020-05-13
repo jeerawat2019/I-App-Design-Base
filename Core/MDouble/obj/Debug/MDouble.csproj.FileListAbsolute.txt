@@ -1,0 +1,30 @@
+C:\PDLib Turorial\Core\MDouble\bin\Debug\MDouble.dll
+C:\PDLib Turorial\Core\MDouble\bin\Debug\MDouble.pdb
+C:\PDLib Turorial\Core\MDouble\obj\Debug\MDouble.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Core\MDouble\obj\Debug\MDouble.dll
+C:\PDLib Turorial\Core\MDouble\obj\Debug\MDouble.pdb
+C:\PDLib\Core\MDouble\bin\Debug\MDouble.dll
+C:\PDLib\Core\MDouble\bin\Debug\MDouble.pdb
+C:\PDLib\Core\MDouble\obj\Debug\MDouble.dll
+C:\PDLib\Core\MDouble\obj\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Core\MDouble\bin\Debug\MDouble.dll
+C:\PDLib MDD Chart\Core\MDouble\bin\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Core\MDouble\obj\Debug\MDouble.dll
+C:\PDLib MDD Chart\Core\MDouble\obj\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Core\MDouble\obj\Debug\MDouble.csprojResolveAssemblyReference.cache
+C:\PDLib MDD Chart\Core\MDouble\obj\Debug\MDouble.csproj.CoreCompileInputs.cache
+C:\PDLib Laser Lappin\Core\MDouble\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Core\MDouble\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Core\MDouble\obj\Debug\MDouble.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Core\MDouble\obj\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Core\MDouble\obj\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Core\MDouble\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Core\MDouble\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Core\MDouble\obj\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Core\MDouble\obj\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Core\MDouble\obj\Debug\MDouble.csprojResolveAssemblyReference.cache
+C:\PDLib Machine Template\Core\MDouble\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Core\MDouble\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Core\MDouble\obj\Debug\MDouble.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Core\MDouble\obj\Debug\MDouble.dll
+C:\PDLib Machine Template\Core\MDouble\obj\Debug\MDouble.pdb

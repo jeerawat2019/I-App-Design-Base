@@ -1,0 +1,62 @@
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.IAIScon.dll
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.IAIScon.pdb
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\EasyModbus.dll
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.dll
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MDouble.dll
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.pdb
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MDouble.pdb
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib\Components\MotionSystems\IAIScon\obj\Debug\MCore.Comp.MotionSystem.IAIScon.dll
+C:\PDLib\Components\MotionSystems\IAIScon\obj\Debug\MCore.Comp.MotionSystem.IAIScon.pdb
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.IAIScon.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.IAIScon.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\EasyModbus.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\obj\Debug\IAIScon.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\obj\Debug\MCore.Comp.MotionSystem.IAIScon.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\IAIScon\obj\Debug\MCore.Comp.MotionSystem.IAIScon.pdb
+C:\PDLib\Components\MotionSystems\IAIScon\obj\Debug\IAIScon.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.IAIScon.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.IAIScon.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\obj\Debug\IAIScon.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\obj\Debug\MCore.Comp.MotionSystem.IAIScon.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\IAIScon\obj\Debug\MCore.Comp.MotionSystem.IAIScon.pdb

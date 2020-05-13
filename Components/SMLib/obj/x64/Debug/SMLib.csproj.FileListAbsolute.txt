@@ -1,0 +1,11 @@
+C:\PDLib\Components\SMLib\bin\x64\Debug\MCore.Comp.SMLib.dll
+C:\PDLib\Components\SMLib\bin\x64\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib\Components\SMLib\bin\x64\Debug\MCore.dll
+C:\PDLib\Components\SMLib\bin\x64\Debug\MDouble.dll
+C:\PDLib\Components\SMLib\bin\x64\Debug\MCore.pdb
+C:\PDLib\Components\SMLib\bin\x64\Debug\MDouble.pdb
+C:\PDLib\Components\SMLib\obj\x64\Debug\MCore.Comp.SMLib.SMFlowChartCtlBase.resources
+C:\PDLib\Components\SMLib\obj\x64\Debug\SMLib.csproj.GenerateResource.Cache
+C:\PDLib\Components\SMLib\obj\x64\Debug\MCore.Comp.SMLib.dll
+C:\PDLib\Components\SMLib\obj\x64\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib\Components\SMLib\obj\x64\Debug\SMLib.csprojResolveAssemblyReference.cache

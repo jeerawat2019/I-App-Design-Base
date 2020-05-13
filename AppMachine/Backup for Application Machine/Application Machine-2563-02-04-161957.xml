@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppMachine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Name="Application Machine">
+  <NextChildNo>0</NextChildNo>
+  <Simulate>None</Simulate>
+  <Enabled>true</Enabled>
+  <Languauge>EN</Languauge>
+  <ProcessUsageDuration>
+    <Val>120</Val>
+  </ProcessUsageDuration>
+  <CurrentProdRecipeName>Sample Recipe</CurrentProdRecipeName>
+  <CurrentUser Name="Admin">
+    <NextChildNo>0</NextChildNo>
+    <Simulate>None</Simulate>
+    <Enabled>true</Enabled>
+    <UserName>Admin</UserName>
+    <UserEN>00000</UserEN>
+    <UserCode>00000</UserCode>
+    <UserLevel>Supervisor</UserLevel>
+  </CurrentUser>
+  <AutoLockoutTime>
+    <Val>600</Val>
+  </AutoLockoutTime>
+  <ReportPath>C:\PDLib\AppMachine\Report</ReportPath>
+  <SaveGoodImage>false</SaveGoodImage>
+  <SaveNGImage>false</SaveNGImage>
+  <SemiAutoMainParam>None</SemiAutoMainParam>
+  <SemiAutoResetParam>None</SemiAutoResetParam>
+</AppMachine>

@@ -1,0 +1,217 @@
+C:\PDLib\AppMachine\AppMachine\bin\Debug\AppMachine.exe.config
+C:\PDLib\AppMachine\AppMachine\bin\Debug\AppMachine.exe
+C:\PDLib\AppMachine\AppMachine\bin\Debug\AppMachine.pdb
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MDouble.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.pdb
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MDouble.pdb
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.csprojResolveAssemblyReference.cache
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCarrierCtrl.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrlV5.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrlV4.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrlV3.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrlV2.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrl.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.IO.AppIOCtrl.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppFloatableSMFlowChart.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppImageCollector.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppUserControlBase.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.AppMainForm.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppCommonParamPanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppSubPanelBase.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppMachineSetupPanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppUtilityPanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppSpecPanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppRecipePanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppGeneralPanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppProductionPanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Properties.Resources.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.csproj.GenerateResource.Cache
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.exe
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.pdb
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppFeedSetupPanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Motion.AppAxisTeachCtrl.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Motion.AppMotionAxisCtrl.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppVisonSetupPanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppPnPSetupPanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Motion.AppPnPTeachCtrl.resources
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\AppMachine\AppMachine\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.SplashFrm.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\AppMachine.exe.config
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.exe
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\AppMachine.exe
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\AppMachine.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCarrierCtrl.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrlV5.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrlV4.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrlV3.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrlV2.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrl.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.IO.AppIOCtrl.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Motion.AppPnPTeachCtrl.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Motion.AppAxisTeachCtrl.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Motion.AppMotionAxisCtrl.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppFloatableSMFlowChart.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppImageCollector.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppUserControlBase.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.AppMainForm.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppCommonParamPanel.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppFeedSetupPanel.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppPnPSetupPanel.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppSubPanelBase.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppMachineSetupPanel.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppUtilityPanel.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppSpecPanel.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppRecipePanel.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppGeneralPanel.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppProductionPanel.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppVisonSetupPanel.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.Properties.Resources.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.SplashFrm.resources
+C:\PDLib x64 04-Dec-2017\AppMachine\AppMachine\obj\Debug\AppMachine.csproj.GenerateResource.Cache
+C:\PDLib x64 14-Feb-2018\AppMachine\AppMachine\bin\Debug\AppMachine.exe.config
+C:\PDLib x64 14-Feb-2018\AppMachine\AppMachine\obj\Debug\AppMachine.exe
+C:\PDLib x64 14-Feb-2018\AppMachine\AppMachine\obj\Debug\AppMachine.pdb
+C:\PDLib Totorail\AppMachine\AppMachine\bin\Debug\AppMachine.exe.config
+C:\PDLib Totorail\AppMachine\AppMachine\obj\Debug\AppMachine.exe
+C:\PDLib Totorail\AppMachine\AppMachine\obj\Debug\AppMachine.pdb
+C:\PDLib Tutorial\AppMachine\AppMachine\bin\Debug\AppMachine.exe.config
+C:\PDLib Tutorial\AppMachine\AppMachine\obj\Debug\AppMachine.exe
+C:\PDLib Tutorial\AppMachine\AppMachine\obj\Debug\AppMachine.pdb
+C:\PDLib Turorial\AppMachine\AppMachine\bin\Debug\AppMachine.exe.config
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.exe
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.pdb
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCarrierCtrl.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.AppPartCtrl.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.IO.AppIOCtrl.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Motion.AppAxisTeachCtrl.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Motion.AppMotionAxisCtrl.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Vision.AppVisionCameraCtrl.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Vision.AppVisionJobCtrl.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppFloatableSMFlowChart.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppUserControlBase.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.AppMainForm.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppCommonParamPanel.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppDemoFeedSetupPanel.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppSubPanelBase.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppMachineSetupPanel.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppUtilityPanel.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppSpecPanel.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppRecipePanel.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppGeneralPanel.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppProductionPanel.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppDemoVisonSetupPanel.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.Properties.Resources.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.SplashFrm.resources
+C:\PDLib Turorial\AppMachine\AppMachine\obj\Debug\AppMachine.csproj.GenerateResource.Cache
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Vision.AppVisionCameraCtrl.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Vision.AppVisionJobCtrl.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppDemoFeedSetupPanel.resources
+C:\PDLib\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppDemoVisonSetupPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\AppMachine.exe.config
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\AppMachine.exe
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\AppMachine.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.LogSystem.Default.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.LogSystem.Default.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.csprojAssemblyReference.cache
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.AppSplashFrm.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.IO.AppIOCtrl.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Motion.AppAxisTeachCtrl.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Motion.AppMotionAxisCtrl.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Part.AppPartCarrierCtrl.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Part.AppPartCtrl.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Users.AppChangeUserFrm.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Vision.AppVisionCameraCtrl.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Comp.Vision.AppVisionJobCtrl.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppFloatableSMFlowChart.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppFloatableSMOperate.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppSemiSMOperateCtrl.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Control.AppUserControlBase.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.AppMainForm.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.AppLockOutFrm.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppCommonParamPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppUsersPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppMainPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppDemoFeedSetupPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppSubPanelBase.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppMachineSetupPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppUtilityPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppSpecPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppRecipePanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppGeneralPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.AppProductionPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Panel.SubPanel.AppDemoVisonSetupPanel.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.Properties.Resources.resources
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.csproj.GenerateResource.cache
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.csproj.CopyComplete
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.exe
+C:\PDLib Machine Template\AppMachine\AppMachine\obj\Debug\AppMachine.pdb

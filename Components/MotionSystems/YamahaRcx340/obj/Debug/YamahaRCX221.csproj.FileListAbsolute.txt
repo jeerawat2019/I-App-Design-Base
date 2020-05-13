@@ -1,0 +1,17 @@
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaRCX221.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaRCX221.pdb
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\MPT.USN.CommonLib.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\System.Windows.Forms.TreeListView.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\Gigasoft.ProEssentials.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\System.Runtime.InteropServices.APIs.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\NumericalRecipes.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\Gigasoft.ProEssentials.xml
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\MPT.USN.CommonLib.pdb
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\bin\Debug\MPT.USN.CommonLib.xml
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaRCX221.YamahaRCX221_222Page.resources
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaRCX221.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaRCX221.pdb
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\obj\Debug\ResolveAssemblyReference.cache
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaRCX221\obj\Debug\GenerateResource-ResGen.write.1.tlog

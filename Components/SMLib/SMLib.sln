@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMLib", "SMLib.csproj", "{4CDED7E6-374F-4B39-993C-E0E7599A079F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDouble", "..\MDouble\MDouble.csproj", "{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLibPlus", "..\MLibPlus\MLibPlus.csproj", "{030D34AC-C049-458E-B87F-CBA36EE2A23C}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccProjectUniqueName0 = ..\\MDouble\\MDouble.csproj
+		SccProjectName0 = $/PDLib/MDouble
+		SccLocalPath0 = ..\\MDouble
+		SccProvider0 = MSSCCI:Dynamsoft\u0020SourceAnywhere\u0020Standalone\u00202.3
+		SccProjectUniqueName1 = ..\\MLibPlus\\MLibPlus.csproj
+		SccProjectName1 = $/PDLib/MLibPlus
+		SccLocalPath1 = ..\\MLibPlus
+		SccProvider1 = MSSCCI:Dynamsoft\u0020SourceAnywhere\u0020Standalone\u00202.3
+		SccProjectUniqueName2 = SMLib.csproj
+		SccProjectName2 = $/PDLib/SMLib
+		SccLocalPath2 = .
+		SccProvider2 = MSSCCI:Dynamsoft\u0020SourceAnywhere\u0020Standalone\u00202.3
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CDED7E6-374F-4B39-993C-E0E7599A079F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDED7E6-374F-4B39-993C-E0E7599A079F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDED7E6-374F-4B39-993C-E0E7599A079F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4CDED7E6-374F-4B39-993C-E0E7599A079F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4CDED7E6-374F-4B39-993C-E0E7599A079F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDED7E6-374F-4B39-993C-E0E7599A079F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDED7E6-374F-4B39-993C-E0E7599A079F}.Release|x64.ActiveCfg = Release|Any CPU
+		{4CDED7E6-374F-4B39-993C-E0E7599A079F}.Release|x86.ActiveCfg = Release|Any CPU
+		{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}.Release|x64.ActiveCfg = Release|Any CPU
+		{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}.Release|x86.ActiveCfg = Release|Any CPU
+		{030D34AC-C049-458E-B87F-CBA36EE2A23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030D34AC-C049-458E-B87F-CBA36EE2A23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030D34AC-C049-458E-B87F-CBA36EE2A23C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{030D34AC-C049-458E-B87F-CBA36EE2A23C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{030D34AC-C049-458E-B87F-CBA36EE2A23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030D34AC-C049-458E-B87F-CBA36EE2A23C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030D34AC-C049-458E-B87F-CBA36EE2A23C}.Release|x64.ActiveCfg = Release|Any CPU
+		{030D34AC-C049-458E-B87F-CBA36EE2A23C}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\PDLib\Components\VisionSystems\Cognex7\obj\x64\Debug\Cognex7.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\VisionSystems\Cognex7\obj\x64\Debug\Cognex7.csproj.ResolveComReference.cache
+C:\PDLib\Components\VisionSystems\Cognex7\obj\x64\Debug\MCore.Comp.VisionSystem.CognexCamPage.resources
+C:\PDLib\Components\VisionSystems\Cognex7\obj\x64\Debug\MCore.Comp.VisionSystem.CognexJobEditForm.resources
+C:\PDLib\Components\VisionSystems\Cognex7\obj\x64\Debug\Cognex7.csproj.GenerateResource.Cache

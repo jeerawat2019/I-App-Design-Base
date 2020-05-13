@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppCommonParam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Name="Common Parameter">
+  <NextChildNo>0</NextChildNo>
+  <Simulate>None</Simulate>
+  <Enabled>true</Enabled>
+</AppCommonParam>

@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6854FEC3-1AAE-42B8-A534-5B5985B0CC6E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MCore.Comp.SMLib.SMFlowChart</RootNamespace>
+    <AssemblyName>MCore.Comp.SMLib.SMFlowChart</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'X86|AnyCPU'">
+    <OutputPath>bin\X86\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'X86|x86'">
+    <OutputPath>bin\x86\X86\</OutputPath>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'X86|x64'">
+    <OutputPath>bin\x64\X86\</OutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\ActTransCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ActTransCtl.Designer.cs">
+      <DependentUpon>ActTransCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TransitionCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TransitionCtrl.Designer.cs">
+      <DependentUpon>TransitionCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ActionCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ActionCtl.Designer.cs">
+      <DependentUpon>ActionCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ArrowCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ArrowCtl.Designer.cs">
+      <DependentUpon>ArrowCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DecisionCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DecisionCtl.Designer.cs">
+      <DependentUpon>DecisionCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ISelectable.cs" />
+    <Compile Include="Controls\SegmentCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SegmentCtl.Designer.cs">
+      <DependentUpon>SegmentCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SMCtlBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\StartStopCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\StartStopCtl.Designer.cs">
+      <DependentUpon>StartStopCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SubroutineCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SubroutineCtl.Designer.cs">
+      <DependentUpon>SubroutineCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\YesNoLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomCursor.cs" />
+    <Compile Include="EditForms\ActTransEditorFormV2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditForms\ActTransEditorFormV2.Designer.cs">
+      <DependentUpon>ActTransEditorFormV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditForms\ActionEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditForms\ActionEditorForm.Designer.cs">
+      <DependentUpon>ActionEditorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditForms\GridEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditForms\GridEditForm.Designer.cs">
+      <DependentUpon>GridEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditForms\TransitionEditorCtrlV2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditForms\TransitionEditorCtrlV2.Designer.cs">
+      <DependentUpon>TransitionEditorCtrlV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditForms\TransitionEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditForms\TransitionEditorForm.Designer.cs">
+      <DependentUpon>TransitionEditorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditForms\SubroutineEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditForms\SubroutineEditorForm.Designer.cs">
+      <DependentUpon>SubroutineEditorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditForms\StopEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditForms\StopEditorForm.Designer.cs">
+      <DependentUpon>StopEditorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditForms\DecisionEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditForms\DecisionEditorForm.Designer.cs">
+      <DependentUpon>DecisionEditorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditForms\NewItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditForms\NewItemForm.Designer.cs">
+      <DependentUpon>NewItemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SMContainerPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SMFlowChartOperateBasic .cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SMFlowChartOperateBasic .Designer.cs">
+      <DependentUpon>SMFlowChartOperateBasic .cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMFlowChartCtlBasic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SMFlowChartCtlBasic.Designer.cs">
+      <DependentUpon>SMFlowChartCtlBasic.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\MDouble\MDouble.csproj">
+      <Project>{1c2d95c3-15d2-445d-8f4e-6ce9a779cd84}</Project>
+      <Name>MDouble</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SMLib.csproj">
+      <Project>{4CDED7E6-374F-4B39-993C-E0E7599A079F}</Project>
+      <Name>SMLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Core\MCore\MCore.csproj">
+      <Project>{030D34AC-C049-458E-B87F-CBA36EE2A23C}</Project>
+      <Name>MCore</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\ActTransCtl.resx">
+      <DependentUpon>ActTransCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TransitionCtrl.resx">
+      <DependentUpon>TransitionCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ActionCtl.resx">
+      <DependentUpon>ActionCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ArrowCtl.resx">
+      <DependentUpon>ArrowCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DecisionCtl.resx">
+      <DependentUpon>DecisionCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SegmentCtl.resx">
+      <DependentUpon>SegmentCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SMCtlBase.resx">
+      <DependentUpon>SMCtlBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\StartStopCtl.resx">
+      <DependentUpon>StartStopCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SubroutineCtl.resx">
+      <DependentUpon>SubroutineCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditForms\ActTransEditorFormV2.resx">
+      <DependentUpon>ActTransEditorFormV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditForms\ActionEditorForm.resx">
+      <DependentUpon>ActionEditorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditForms\GridEditForm.resx">
+      <DependentUpon>GridEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditForms\TransitionEditorCtrlV2.resx">
+      <DependentUpon>TransitionEditorCtrlV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditForms\TransitionEditorForm.resx">
+      <DependentUpon>TransitionEditorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditForms\SubroutineEditorForm.resx">
+      <DependentUpon>SubroutineEditorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditForms\StopEditorForm.resx">
+      <DependentUpon>StopEditorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditForms\DecisionEditorForm.resx">
+      <DependentUpon>DecisionEditorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditForms\NewItemForm.resx">
+      <DependentUpon>NewItemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMContainerPanel.resx">
+      <DependentUpon>SMContainerPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMFlowChartOperateBasic .resx">
+      <DependentUpon>SMFlowChartOperateBasic .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMFlowChartCtlBasic.resx">
+      <DependentUpon>SMFlowChartCtlBasic.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\ActionFlow.bmp" />
+    <None Include="Resources\TransitionFlow.bmp" />
+    <None Include="Resources\NoGridBackground.bmp" />
+    <None Include="Resources\ArrowDown.bmp" />
+    <None Include="Resources\ArrowLeft.bmp" />
+    <None Include="Resources\ArrowRight.bmp" />
+    <None Include="Resources\ArrowUp.bmp" />
+    <None Include="Resources\ArrowSelected.bmp" />
+    <None Include="Resources\BigArrowDown.bmp" />
+    <None Include="Resources\BigArrowUp.bmp" />
+    <None Include="Resources\BigArrowLeft.bmp" />
+    <None Include="Resources\BigArrowRight.bmp" />
+    <None Include="Resources\BigRedArrowLeft.bmp" />
+    <None Include="Resources\BigRedArrowRight.bmp" />
+    <None Include="Resources\BigRedArrowUp.bmp" />
+    <None Include="Resources\BigRedArrowDown.bmp" />
+    <None Include="Resources\ActTransFlow.bmp" />
+    <Content Include="Resources\Decision.bmp" />
+    <None Include="Resources\FlowItemCursor.bmp" />
+    <None Include="Resources\DecisionNested.bmp" />
+    <None Include="Resources\Image1.bmp" />
+    <Content Include="Resources\StartStop.bmp" />
+    <None Include="Resources\Subroutine.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GridBackground.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

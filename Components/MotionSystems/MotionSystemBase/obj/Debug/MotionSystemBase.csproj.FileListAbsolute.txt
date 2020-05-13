@@ -1,0 +1,134 @@
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.dll
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Controls.AxisTeachButtonBase.resources
+C:\PDLib\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealRotaryPage.resources
+C:\PDLib\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealAxisPage.resources
+C:\PDLib\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.MultiPosPage.resources
+C:\PDLib\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.SetupPSOPage.resources
+C:\PDLib\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csproj.GenerateResource.Cache
+C:\PDLib\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Controls.AxisTeachButtonBase.resources
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealRotaryPage.resources
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealAxisPage.resources
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.MultiPosPage.resources
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.SetupPSOPage.resources
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csproj.GenerateResource.Cache
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.dll
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Controls.AxisTeachButtonBase.resources
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealRotaryPage.resources
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealAxisPage.resources
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.MultiPosPage.resources
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.SetupPSOPage.resources
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csproj.GenerateResource.Cache
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Turorial\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Controls.AxisTeachButtonBase.resources
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealRotaryPage.resources
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealAxisPage.resources
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.MultiPosPage.resources
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.SetupPSOPage.resources
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Controls.AxisTeachButtonBase.resources
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealRotaryPage.resources
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealAxisPage.resources
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.MultiPosPage.resources
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.SetupPSOPage.resources
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csproj.GenerateResource.Cache
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Controls.AxisTeachButtonBase.resources
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealRotaryPage.resources
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.RealAxisPage.resources
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.MultiPosPage.resources
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.Axis.SetupPSOPage.resources
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csproj.GenerateResource.cache
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MotionSystemBase.csproj.CopyComplete
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Machine Template\Components\MotionSystems\MotionSystemBase\obj\Debug\MCore.Comp.MotionSystem.pdb

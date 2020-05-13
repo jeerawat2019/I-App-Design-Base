@@ -1,0 +1,17 @@
+C:\PDLib\Components\IOSystems\IOSystemBase\obj\x64\Debug\MCore.Comp.IOSystem.CompMeasureCtl.resources
+C:\PDLib\Components\IOSystems\IOSystemBase\obj\x64\Debug\MCore.Comp.IOSystem.Input.Array2DInputCtl.resources
+C:\PDLib\Components\IOSystems\IOSystemBase\obj\x64\Debug\MCore.Comp.IOSystem.Input.BoolInputsCtl.resources
+C:\PDLib\Components\IOSystems\IOSystemBase\obj\x64\Debug\MCore.Comp.IOSystem.Output.BoolOutputsCtl.resources
+C:\PDLib\Components\IOSystems\IOSystemBase\obj\x64\Debug\IOSystemBase.csproj.GenerateResource.Cache
+C:\PDLib\Components\IOSystems\IOSystemBase\bin\x64\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib\Components\IOSystems\IOSystemBase\bin\x64\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib\Components\IOSystems\IOSystemBase\bin\x64\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\IOSystems\IOSystemBase\bin\x64\Debug\MCore.dll
+C:\PDLib\Components\IOSystems\IOSystemBase\bin\x64\Debug\MDouble.dll
+C:\PDLib\Components\IOSystems\IOSystemBase\bin\x64\Debug\MCore.pdb
+C:\PDLib\Components\IOSystems\IOSystemBase\bin\x64\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\IOSystems\IOSystemBase\bin\x64\Debug\MDouble.pdb
+C:\PDLib\Components\IOSystems\IOSystemBase\obj\x64\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib\Components\IOSystems\IOSystemBase\obj\x64\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib\Components\IOSystems\IOSystemBase\obj\x64\Debug\IOSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\IOSystems\IOSystemBase\bin\x64\Debug\Gigasoft.ProEssentials.dll

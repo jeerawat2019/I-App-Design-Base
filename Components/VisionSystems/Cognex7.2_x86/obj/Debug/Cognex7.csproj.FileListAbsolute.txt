@@ -1,0 +1,84 @@
+C:\PDLib\Components\VisionSystems\Cognex7\obj\Debug\Cognex7.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\VisionSystems\Cognex7\obj\Debug\Cognex7.csproj.ResolveComReference.cache
+C:\PDLib\Components\VisionSystems\Cognex7\obj\Debug\MCore.Comp.VisionSystem.CognexCamPage.resources
+C:\PDLib\Components\VisionSystems\Cognex7\obj\Debug\MCore.Comp.VisionSystem.CognexJobEditForm.resources
+C:\PDLib\Components\VisionSystems\Cognex7\obj\Debug\Cognex7.csproj.GenerateResource.Cache
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.VisionSystem.Cognex7_2x86.dll
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.VisionSystem.Cognex7_2x86.pdb
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.dll
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MDouble.dll
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.pdb
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MDouble.pdb
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\obj\Debug\Cognex7.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\obj\Debug\Cognex7.csproj.ResolveComReference.cache
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\obj\Debug\MCore.Comp.VisionSystem.CognexCamPage.resources
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\obj\Debug\MCore.Comp.VisionSystem.CognexJobEditForm.resources
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\obj\Debug\Cognex7.csproj.GenerateResource.Cache
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\obj\Debug\MCore.Comp.VisionSystem.Cognex7_2x86.dll
+C:\PDLib\Components\VisionSystems\Cognex7.2_x86\obj\Debug\MCore.Comp.VisionSystem.Cognex7_2x86.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.VisionSystem.Cognex7_2x86.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.VisionSystem.Cognex7_2x86.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.VisionSystem.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.VisionSystem.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\obj\Debug\Cognex7.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\obj\Debug\Cognex7.csproj.ResolveComReference.cache
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\obj\Debug\MCore.Comp.VisionSystem.CognexCamPage.resources
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\obj\Debug\MCore.Comp.VisionSystem.CognexJobEditForm.resources
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\obj\Debug\Cognex7.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\obj\Debug\MCore.Comp.VisionSystem.Cognex7_2x86.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\obj\Debug\MCore.Comp.VisionSystem.Cognex7_2x86.pdb
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Core.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.ResultsAnalysis.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.SearchMax.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\stdole.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Inspection.Controls.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Inspection.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Database.dll
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Core.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.ResultsAnalysis.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.SearchMax.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Inspection.xml
+C:\PDLib Laser Lapping\Components\VisionSystems\Cognex7.2_x86\bin\Debug\Cognex.VisionPro.Database.xml

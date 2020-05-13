@@ -1,0 +1,14 @@
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Release\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Release\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Release\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Release\MCore.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Release\MDouble.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Release\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Release\MCore.pdb
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Release\MDouble.pdb
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Release\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lapping\Components\Misc\Geometry\obj\Release\Geometry.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\Misc\Geometry\obj\Release\MCore.Comp.Geometry.G3DPointCtl.resources
+C:\PDLib Laser Lapping\Components\Misc\Geometry\obj\Release\Geometry.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\Misc\Geometry\obj\Release\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\obj\Release\MCore.Comp.Geometry.pdb

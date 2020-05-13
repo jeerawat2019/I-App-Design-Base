@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2628FADA-47E6-448A-9E54-D39895946B12}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AppMachine</RootNamespace>
+    <AssemblyName>AppMachine</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Navigator, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ThirdParty\Krypton\ComponentFactory.Krypton.Navigator.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Ribbon, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ThirdParty\Krypton\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ThirdParty\Krypton\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppConstStaticName.cs" />
+    <Compile Include="AppAplashFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppAplashFrm.designer.cs">
+      <DependentUpon>AppAplashFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppUtility.cs" />
+    <Compile Include="Comp\AppSubCategory.cs" />
+    <Compile Include="Comp\Part\AppPart.cs" />
+    <Compile Include="Comp\AppEnums.cs" />
+    <Compile Include="Comp\AppMachine.cs" />
+    <Compile Include="Comp\CommonParam\AppCommonParam.cs" />
+    <Compile Include="Comp\IO\AppIOCollection.cs" />
+    <Compile Include="Comp\IO\AppIOCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comp\IO\AppIOCtrl.Designer.cs">
+      <DependentUpon>AppIOCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\IO\AppSafetyInput.cs" />
+    <Compile Include="Comp\Motion\AppRealAxes.cs" />
+    <Compile Include="Comp\Motion\AppAxisTeachCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comp\Motion\AppAxisTeachCtrl.Designer.cs">
+      <DependentUpon>AppAxisTeachCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\Motion\AppRealAxis.cs" />
+    <Compile Include="Comp\Motion\AppMotionAxisCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comp\Motion\AppMotionAxisCtrl.Designer.cs">
+      <DependentUpon>AppMotionAxisCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\Part\AppPartCarrier.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Comp\Part\AppPartCarrierCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comp\Part\AppPartCarrierCtrl.Designer.cs">
+      <DependentUpon>AppPartCarrierCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\Part\AppPartCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comp\Part\AppPartCtrl.Designer.cs">
+      <DependentUpon>AppPartCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\Recipe\AppProductRecipe.cs" />
+    <Compile Include="Comp\Recipe\AppRecipeBase.cs" />
+    <Compile Include="Comp\Recipe\AppSMRefCurrentRecipe.cs" />
+    <Compile Include="Comp\Station\AppStationBase.cs" />
+    <Compile Include="Comp\Users\AppChangeUserFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comp\Users\AppChangeUserFrm.Designer.cs">
+      <DependentUpon>AppChangeUserFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\Users\AppUserInfo.cs" />
+    <Compile Include="Comp\Vision\AppVisionCameraCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comp\Vision\AppVisionCameraCtrl.Designer.cs">
+      <DependentUpon>AppVisionCameraCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\Vision\AppVisionJobCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comp\Vision\AppVisionJobCtrl.Designer.cs">
+      <DependentUpon>AppVisionJobCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\Vision\AppVisionResultBase.cs" />
+    <Compile Include="Control\AppFloatableSMFlowChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\AppFloatableSMFlowChart.Designer.cs">
+      <DependentUpon>AppFloatableSMFlowChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\AppFloatableSMFlowOperate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\AppFloatableSMFlowOperate.designer.cs">
+      <DependentUpon>AppFloatableSMFlowOperate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\AppSemiSMOperateCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\AppSemiSMOperateCtrl.designer.cs">
+      <DependentUpon>AppSemiSMOperateCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\AppUserControlBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\AppUserControlBase.Designer.cs">
+      <DependentUpon>AppUserControlBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppMainForm.Designer.cs">
+      <DependentUpon>AppMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppLockOutFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppLockOutFrm.designer.cs">
+      <DependentUpon>AppLockOutFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\AppCommonParamPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\AppCommonParamPanel.Designer.cs">
+      <DependentUpon>AppCommonParamPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\AppUsersPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\AppUsersPanel.Designer.cs">
+      <DependentUpon>AppUsersPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\AppMainPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\AppMainPanel.Designer.cs">
+      <DependentUpon>AppMainPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\SubPanel\AppDemoFeedSetupPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\SubPanel\AppDemoFeedSetupPanel.Designer.cs">
+      <DependentUpon>AppDemoFeedSetupPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\SubPanel\AppSubPanelBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\SubPanel\AppSubPanelBase.Designer.cs">
+      <DependentUpon>AppSubPanelBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\AppMachineSetupPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\AppMachineSetupPanel.Designer.cs">
+      <DependentUpon>AppMachineSetupPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\AppUtilityPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\AppUtilityPanel.Designer.cs">
+      <DependentUpon>AppUtilityPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\AppSpecPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\AppSpecPanel.Designer.cs">
+      <DependentUpon>AppSpecPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\AppRecipePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\AppRecipePanel.Designer.cs">
+      <DependentUpon>AppRecipePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\AppGeneralPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\AppGeneralPanel.Designer.cs">
+      <DependentUpon>AppGeneralPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\AppProductionPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\AppProductionPanel.Designer.cs">
+      <DependentUpon>AppProductionPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel\SubPanel\AppDemoVisonSetupPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel\SubPanel\AppDemoVisonSetupPanel.Designer.cs">
+      <DependentUpon>AppDemoVisonSetupPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AppAplashFrm.resx">
+      <DependentUpon>AppAplashFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comp\IO\AppIOCtrl.resx">
+      <DependentUpon>AppIOCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comp\Motion\AppAxisTeachCtrl.resx">
+      <DependentUpon>AppAxisTeachCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comp\Motion\AppMotionAxisCtrl.resx">
+      <DependentUpon>AppMotionAxisCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comp\Part\AppPartCarrierCtrl.resx">
+      <DependentUpon>AppPartCarrierCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comp\Part\AppPartCtrl.resx">
+      <DependentUpon>AppPartCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comp\Users\AppChangeUserFrm.resx">
+      <DependentUpon>AppChangeUserFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comp\Vision\AppVisionCameraCtrl.resx">
+      <DependentUpon>AppVisionCameraCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comp\Vision\AppVisionJobCtrl.resx">
+      <DependentUpon>AppVisionJobCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\AppFloatableSMFlowChart.resx">
+      <DependentUpon>AppFloatableSMFlowChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\AppFloatableSMFlowOperate.resx">
+      <DependentUpon>AppFloatableSMFlowOperate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\AppSemiSMOperateCtrl.resx">
+      <DependentUpon>AppSemiSMOperateCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\AppUserControlBase.resx">
+      <DependentUpon>AppUserControlBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppMainForm.resx">
+      <DependentUpon>AppMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppLockOutFrm.resx">
+      <DependentUpon>AppLockOutFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\AppCommonParamPanel.resx">
+      <DependentUpon>AppCommonParamPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\AppUsersPanel.resx">
+      <DependentUpon>AppUsersPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\AppMainPanel.resx">
+      <DependentUpon>AppMainPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\SubPanel\AppDemoFeedSetupPanel.resx">
+      <DependentUpon>AppDemoFeedSetupPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\SubPanel\AppSubPanelBase.resx">
+      <DependentUpon>AppSubPanelBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\AppMachineSetupPanel.resx">
+      <DependentUpon>AppMachineSetupPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\AppUtilityPanel.resx">
+      <DependentUpon>AppUtilityPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\AppSpecPanel.resx">
+      <DependentUpon>AppSpecPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\AppRecipePanel.resx">
+      <DependentUpon>AppRecipePanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\AppGeneralPanel.resx">
+      <DependentUpon>AppGeneralPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\AppProductionPanel.resx">
+      <DependentUpon>AppProductionPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel\SubPanel\AppDemoVisonSetupPanel.resx">
+      <DependentUpon>AppDemoVisonSetupPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Components\Communications\CommunicationBase\CommunicationBase.csproj">
+      <Project>{1fa80e64-1394-42f1-88e6-a4adf533f49e}</Project>
+      <Name>CommunicationBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\IOSystems\IOSystemBase\IOSystemBase.csproj">
+      <Project>{98a92940-2ab7-47e0-873a-73d3246dd960}</Project>
+      <Name>IOSystemBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\LogSystems\DefaultLogger\LogSystem.csproj">
+      <Project>{08f7d7aa-10f8-4c16-b505-2f2aa7e87e37}</Project>
+      <Name>LogSystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\Misc\Geometry\Geometry.csproj">
+      <Project>{5b10a0a7-141d-4d96-bbf2-be45d135e4c0}</Project>
+      <Name>Geometry</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\MotionSystems\MotionSystemBase\MotionSystemBase.csproj">
+      <Project>{a52e042e-edbf-474c-86bf-cbfc1ebce0f0}</Project>
+      <Name>MotionSystemBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\SMLib\SMFlowChart\SMFlowChart.csproj">
+      <Project>{6854fec3-1aae-42b8-a534-5b5985b0cc6e}</Project>
+      <Name>SMFlowChart</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\SMLib\SMLib.csproj">
+      <Project>{4cded7e6-374f-4b39-993c-e0e7599a079f}</Project>
+      <Name>SMLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\VisionSystems\VisionSystemBase\VisionSystemBase.csproj">
+      <Project>{72350174-c514-455a-8872-bfcfcd501390}</Project>
+      <Name>VisionSystemBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Core\MCore\MCore.csproj">
+      <Project>{030d34ac-c049-458e-b87f-cba36ee2a23c}</Project>
+      <Name>MCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Core\MDouble\MDouble.csproj">
+      <Project>{1c2d95c3-15d2-445d-8f4e-6ce9a779cd84}</Project>
+      <Name>MDouble</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LockOutBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoadingDot.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoadingDotV2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Waiting.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WaitingV2.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

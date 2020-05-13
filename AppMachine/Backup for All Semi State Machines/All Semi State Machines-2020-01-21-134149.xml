@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Name="All Semi State Machines">
+  <NextChildNo>0</NextChildNo>
+  <ChildArray>
+    <SMStateMachine Name="SM Semi Reset">
+      <NextChildNo>2</NextChildNo>
+      <ChildArray>
+        <SMStart Name="SMStart_0">
+          <NextChildNo>0</NextChildNo>
+          <Simulate>None</Simulate>
+          <Enabled>true</Enabled>
+          <PathArray>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+            <PathOut>
+              <GridDistance>0.5</GridDistance>
+              <TargetID />
+            </PathOut>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+          </PathArray>
+          <GridLoc>
+            <X>2.5</X>
+            <Y>0.5</Y>
+          </GridLoc>
+          <Text>Start</Text>
+        </SMStart>
+        <SMReturnStop Name="SMReturnStop_1">
+          <NextChildNo>0</NextChildNo>
+          <Simulate>None</Simulate>
+          <Enabled>true</Enabled>
+          <PathArray>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+          </PathArray>
+          <GridLoc>
+            <X>2.5</X>
+            <Y>6.5</Y>
+          </GridLoc>
+          <Text>Stop</Text>
+        </SMReturnStop>
+      </ChildArray>
+      <Simulate>None</Simulate>
+      <Enabled>true</Enabled>
+      <PathArray>
+        <PathOutPlug>
+          <GridDistance>NaN</GridDistance>
+          <TargetID />
+        </PathOutPlug>
+        <PathOutPlug>
+          <GridDistance>NaN</GridDistance>
+          <TargetID />
+        </PathOutPlug>
+        <PathOutPlug>
+          <GridDistance>NaN</GridDistance>
+          <TargetID />
+        </PathOutPlug>
+        <PathOutPlug>
+          <GridDistance>NaN</GridDistance>
+          <TargetID />
+        </PathOutPlug>
+      </PathArray>
+      <GridLoc>
+        <X>0</X>
+        <Y>0</Y>
+      </GridLoc>
+      <Text>SM Semi Reset</Text>
+      <GridCorner>
+        <X>0</X>
+        <Y>0</Y>
+      </GridCorner>
+      <GridSize>
+        <Width>20</Width>
+        <Height>40</Height>
+      </GridSize>
+      <ScopeID />
+      <PrevScopeID />
+      <LockText />
+    </SMStateMachine>
+    <SMStateMachine Name="SM Semi Main">
+      <NextChildNo>2</NextChildNo>
+      <ChildArray>
+        <SMStart Name="SMStart_0">
+          <NextChildNo>0</NextChildNo>
+          <Simulate>None</Simulate>
+          <Enabled>true</Enabled>
+          <PathArray>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+            <PathOut>
+              <GridDistance>0.5</GridDistance>
+              <TargetID />
+            </PathOut>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+          </PathArray>
+          <GridLoc>
+            <X>2.5</X>
+            <Y>0.5</Y>
+          </GridLoc>
+          <Text>Start</Text>
+        </SMStart>
+        <SMReturnStop Name="SMReturnStop_1">
+          <NextChildNo>0</NextChildNo>
+          <Simulate>None</Simulate>
+          <Enabled>true</Enabled>
+          <PathArray>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+            <PathOutPlug>
+              <GridDistance>NaN</GridDistance>
+              <TargetID />
+            </PathOutPlug>
+          </PathArray>
+          <GridLoc>
+            <X>2.5</X>
+            <Y>6.5</Y>
+          </GridLoc>
+          <Text>Stop</Text>
+        </SMReturnStop>
+      </ChildArray>
+      <Simulate>None</Simulate>
+      <Enabled>true</Enabled>
+      <PathArray>
+        <PathOutPlug>
+          <GridDistance>NaN</GridDistance>
+          <TargetID />
+        </PathOutPlug>
+        <PathOutPlug>
+          <GridDistance>NaN</GridDistance>
+          <TargetID />
+        </PathOutPlug>
+        <PathOutPlug>
+          <GridDistance>NaN</GridDistance>
+          <TargetID />
+        </PathOutPlug>
+        <PathOutPlug>
+          <GridDistance>NaN</GridDistance>
+          <TargetID />
+        </PathOutPlug>
+      </PathArray>
+      <GridLoc>
+        <X>0</X>
+        <Y>0</Y>
+      </GridLoc>
+      <Text>SM Semi Main</Text>
+      <GridCorner>
+        <X>0</X>
+        <Y>0</Y>
+      </GridCorner>
+      <GridSize>
+        <Width>20</Width>
+        <Height>40</Height>
+      </GridSize>
+      <ScopeID />
+      <PrevScopeID />
+      <LockText />
+    </SMStateMachine>
+  </ChildArray>
+  <Simulate>None</Simulate>
+  <Enabled>true</Enabled>
+</CompBase>

@@ -1,0 +1,86 @@
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.dll
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MDouble.dll
+C:\PDLib\Components\Misc\Geometry\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.pdb
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MDouble.pdb
+C:\PDLib\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.G3DPointCtl.resources
+C:\PDLib\Components\Misc\Geometry\obj\Debug\Geometry.csproj.GenerateResource.Cache
+C:\PDLib\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.dll
+C:\PDLib\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.G3DPointCtl.resources
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\obj\Debug\Geometry.csproj.GenerateResource.Cache
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.dll
+C:\PDLib x64 04-Dec-2017\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib\Components\Misc\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Turorial\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Turorial\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Turorial\Components\Misc\Geometry\bin\Debug\MCore.dll
+C:\PDLib Turorial\Components\Misc\Geometry\bin\Debug\MDouble.dll
+C:\PDLib Turorial\Components\Misc\Geometry\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Turorial\Components\Misc\Geometry\bin\Debug\MCore.pdb
+C:\PDLib Turorial\Components\Misc\Geometry\bin\Debug\MDouble.pdb
+C:\PDLib Turorial\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Turorial\Components\Misc\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.G3DPointCtl.resources
+C:\PDLib Turorial\Components\Misc\Geometry\obj\Debug\Geometry.csproj.GenerateResource.Cache
+C:\PDLib Turorial\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Turorial\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lapping\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.G3DPointCtl.resources
+C:\PDLib Laser Lapping\Components\Misc\Geometry\obj\Debug\Geometry.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lappin\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lappin\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lappin\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lappin\Components\Misc\Geometry\bin\Debug\MCore.dll
+C:\PDLib Laser Lappin\Components\Misc\Geometry\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Components\Misc\Geometry\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lappin\Components\Misc\Geometry\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Components\Misc\Geometry\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lappin\Components\Misc\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.G3DPointCtl.resources
+C:\PDLib Laser Lappin\Components\Misc\Geometry\obj\Debug\Geometry.csproj.GenerateResource.Cache
+C:\PDLib Laser Lappin\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lappin\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lapping\Components\Misc\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\PDLib Machine Template\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Machine Template\Components\Misc\Geometry\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Machine Template\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Machine Template\Components\Misc\Geometry\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\Misc\Geometry\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\Misc\Geometry\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Machine Template\Components\Misc\Geometry\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\Misc\Geometry\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\Misc\Geometry\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Machine Template\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.G3DPointCtl.resources
+C:\PDLib Machine Template\Components\Misc\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+C:\PDLib Machine Template\Components\Misc\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\Misc\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+C:\PDLib Machine Template\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Machine Template\Components\Misc\Geometry\obj\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Machine Template\Components\Misc\Geometry\obj\Debug\Geometry.csprojAssemblyReference.cache

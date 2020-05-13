@@ -1,0 +1,69 @@
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\obj\Debug\TCPIP.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\Components\Communications\TCPIP\bin\Debug\MCore.dll
+C:\PDLib\Components\Communications\TCPIP\bin\Debug\MDouble.dll
+C:\PDLib\Components\Communications\TCPIP\bin\Debug\MCore.pdb
+C:\PDLib\Components\Communications\TCPIP\bin\Debug\MDouble.pdb
+C:\PDLib\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib\Components\Communications\TCPIP\obj\Debug\TCPIP.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib MDD Chart\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib MDD Chart\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib MDD Chart\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib MDD Chart\Components\Communications\TCPIP\bin\Debug\MCore.dll
+C:\PDLib MDD Chart\Components\Communications\TCPIP\bin\Debug\MDouble.dll
+C:\PDLib MDD Chart\Components\Communications\TCPIP\bin\Debug\MCore.pdb
+C:\PDLib MDD Chart\Components\Communications\TCPIP\bin\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib MDD Chart\Components\Communications\TCPIP\obj\Debug\TCPIP.csprojResolveAssemblyReference.cache
+C:\PDLib MDD Chart\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib MDD Chart\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib MDD Chart\Components\Communications\TCPIP\obj\Debug\TCPIP.csproj.CoreCompileInputs.cache
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\bin\Debug\MCore.dll
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\obj\Debug\TCPIP.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib Laser Lappin\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib Laser Lapping\Components\Communications\TCPIP\obj\Debug\TCPIP.csprojResolveAssemblyReference.cache
+C:\PDLib Machine Template\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib Machine Template\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.TCPIP.pdb
+C:\PDLib Machine Template\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Machine Template\Components\Communications\TCPIP\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\Communications\TCPIP\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\Communications\TCPIP\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\Communications\TCPIP\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\Communications\TCPIP\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Machine Template\Components\Communications\TCPIP\obj\Debug\TCPIP.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Components\Communications\TCPIP\obj\Debug\TCPIP.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\Communications\TCPIP\obj\Debug\TCPIP.csproj.CopyComplete
+C:\PDLib Machine Template\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.dll
+C:\PDLib Machine Template\Components\Communications\TCPIP\obj\Debug\MCore.Comp.Communications.TCPIP.pdb

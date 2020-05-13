@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{030D34AC-C049-458E-B87F-CBA36EE2A23C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MCore</RootNamespace>
+    <AssemblyName>MCore</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'X86|AnyCPU'">
+    <OutputPath>bin\X86\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'X86|x64'">
+    <OutputPath>bin\x64\X86\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'X86|x86'">
+    <OutputPath>bin\x86\X86\</OutputPath>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attributes.cs" />
+    <Compile Include="Comp\CompBase.cs" />
+    <Compile Include="Comp\ComponentFactory.cs" />
+    <Compile Include="Comp\CompProducts.cs" />
+    <Compile Include="Comp\CompRoot.cs" />
+    <Compile Include="Comp\LinearBase.cs" />
+    <Compile Include="Comp\LogSystemBase.cs" />
+    <Compile Include="Comp\MotionSystem\AxesBase.cs" />
+    <Compile Include="Comp\MotionSystem\AxisBase.cs" />
+    <Compile Include="Comp\MotionSystem\AxisBasePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comp\MotionSystem\AxisBasePage.Designer.cs">
+      <DependentUpon>AxisBasePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\MotionSystem\RotaryBasePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comp\MotionSystem\RotaryBasePage.Designer.cs">
+      <DependentUpon>RotaryBasePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\MotionSystem\RotaryBase.cs" />
+    <Compile Include="Controls\AxisMoveButtonMM.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\BrowseForFile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\BrowseForFile.Designer.cs">
+      <DependentUpon>BrowseForFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ClassPropertyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\ClassPropertyForm.Designer.cs">
+      <DependentUpon>ClassPropertyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CompBasePropCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CompBasePropCtl.Designer.cs">
+      <DependentUpon>CompBasePropCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ComponentBrowser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ComponentBrowser.Designer.cs">
+      <DependentUpon>ComponentBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AxisMoveButtonBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\AxisMoveButtonBase.Designer.cs">
+      <DependentUpon>AxisMoveButtonBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BoolComboBoxCtl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\BoolComboBoxCtl.Designer.cs">
+      <DependentUpon>BoolComboBoxCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DoubleCtl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\DoubleCtl.Designer.cs">
+      <DependentUpon>DoubleCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LangUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\LangUserControl.Designer.cs">
+      <DependentUpon>LangUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\StringCtl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\StringCtl.Designer.cs">
+      <DependentUpon>StringCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\EnumRadioGroupBoxCtl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\EnumRadioGroupBoxCtl.Designer.cs">
+      <DependentUpon>EnumRadioGroupBoxCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\EnumComboBoxCtl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\EnumComboBoxCtl.Designer.cs">
+      <DependentUpon>EnumComboBoxCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\EditorCanvas.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\GenericClassPropCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\GenericClassPropCtl.Designer.cs">
+      <DependentUpon>GenericClassPropCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LabelCtl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LabelCtl.Designer.cs">
+      <DependentUpon>LabelCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\IntegerCtl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\IntegerCtl.Designer.cs">
+      <DependentUpon>IntegerCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MBoolRadio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MBoolRadio.Designer.cs">
+      <DependentUpon>MBoolRadio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MDoubleCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MDoubleCtl.Designer.cs">
+      <DependentUpon>MDoubleCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\IComponentBinding.cs" />
+    <Compile Include="Controls\MCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\MCheckBox.Designer.cs">
+      <DependentUpon>MCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MPIDCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MPIDCtl.Designer.cs">
+      <DependentUpon>MPIDCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MDoubleWithUnits.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MDoubleWithUnits.Designer.cs">
+      <DependentUpon>MDoubleWithUnits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comp\CompSystem.cs" />
+    <Compile Include="Comp\CompMachine.cs" />
+    <Compile Include="Controls\TransparentCtrl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\TransparentCtrl.Designer.cs">
+      <DependentUpon>TransparentCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delegates.cs" />
+    <Compile Include="Comp\MethodWrapper.cs" />
+    <Compile Include="Comp\PropertyWrapper.cs" />
+    <Compile Include="FastMethodInvoke.cs" />
+    <Compile Include="Helpers\AbortableBackgroundWorker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Helpers\TriggerQueue.cs" />
+    <Compile Include="Interfaces\IXFerFunc.cs" />
+    <Compile Include="Lists\SortableList.cs" />
+    <Compile Include="MCoreException.cs" />
+    <Compile Include="MCoreXmlSerializer.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ReleaseNotesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReleaseNotesForm.Designer.cs">
+      <DependentUpon>ReleaseNotesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="U.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MDouble\MDouble.csproj">
+      <Project>{1C2D95C3-15D2-445D-8F4E-6CE9A779CD84}</Project>
+      <Name>MDouble</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Comp\MotionSystem\AxisBasePage.resx">
+      <DependentUpon>AxisBasePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comp\MotionSystem\RotaryBasePage.resx">
+      <DependentUpon>RotaryBasePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\BrowseForFile.resx">
+      <DependentUpon>BrowseForFile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ClassPropertyForm.resx">
+      <DependentUpon>ClassPropertyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CompBasePropCtl.resx">
+      <DependentUpon>CompBasePropCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ComponentBrowser.resx">
+      <DependentUpon>ComponentBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AxisMoveButtonBase.resx">
+      <DependentUpon>AxisMoveButtonBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\GenericClassPropCtl.resx">
+      <DependentUpon>GenericClassPropCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MBoolRadio.resx">
+      <DependentUpon>MBoolRadio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MDoubleCtl.resx">
+      <DependentUpon>MDoubleCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MCheckBox.resx">
+      <DependentUpon>MCheckBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MPIDCtl.resx">
+      <DependentUpon>MPIDCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MDoubleWithUnits.resx">
+      <DependentUpon>MDoubleWithUnits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TransparentCtrl.resx">
+      <DependentUpon>TransparentCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReleaseNotesForm.resx">
+      <DependentUpon>ReleaseNotesForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TextFile1.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

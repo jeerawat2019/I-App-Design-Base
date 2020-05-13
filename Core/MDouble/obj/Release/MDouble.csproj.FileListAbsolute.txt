@@ -1,0 +1,9 @@
+C:\PDLib MDD Chart\Core\MDouble\bin\Release\MDouble.dll
+C:\PDLib MDD Chart\Core\MDouble\bin\Release\MDouble.pdb
+C:\PDLib MDD Chart\Core\MDouble\obj\Release\MDouble.dll
+C:\PDLib MDD Chart\Core\MDouble\obj\Release\MDouble.pdb
+C:\PDLib MDD Chart\Core\MDouble\obj\Release\MDouble.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Core\MDouble\bin\Release\MDouble.dll
+C:\PDLib Laser Lapping\Core\MDouble\bin\Release\MDouble.pdb
+C:\PDLib Laser Lapping\Core\MDouble\obj\Release\MDouble.dll
+C:\PDLib Laser Lapping\Core\MDouble\obj\Release\MDouble.pdb

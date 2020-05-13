@@ -1,0 +1,57 @@
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.pdb
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\MPT.USN.CommonLib.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\System.Windows.Forms.TreeListView.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\NumericalRecipes.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\Gigasoft.ProEssentials.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\System.Runtime.InteropServices.APIs.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\MPT.USN.CommonLib.pdb
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\MPT.USN.CommonLib.xml
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\Gigasoft.ProEssentials.xml
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.YamahaTrServoPage.resources
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.YamahaTrServoSetupPage.resources
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.pdb
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\YamahaTrServo.csprojResolveAssemblyReference.cache
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\YamahaTrServo.csproj.GenerateResource.Cache
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.MotionSystem.YamahaTrServo.dll
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.MotionSystem.YamahaTrServo.pdb
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.dll
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MDouble.dll
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.pdb
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MDouble.pdb
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib\Components\MotionSystems\YamahaTrServo\obj\Debug\MCore.Comp.MotionSystem.YamahaTrServo.dll
+C:\PDLib\Components\MotionSystems\YamahaTrServo\obj\Debug\MCore.Comp.MotionSystem.YamahaTrServo.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.MotionSystem.YamahaTrServo.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.MotionSystem.YamahaTrServo.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\obj\Debug\YamahaTrServo.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\obj\Debug\MCore.Comp.MotionSystem.YamahaTrServo.dll
+C:\PDLib x64 04-Dec-2017\Components\MotionSystems\YamahaTrServo\obj\Debug\MCore.Comp.MotionSystem.YamahaTrServo.pdb
+C:\PDLib\Components\MotionSystems\YamahaTrServo\obj\Debug\YamahaTrServo.csprojResolveAssemblyReference.cache

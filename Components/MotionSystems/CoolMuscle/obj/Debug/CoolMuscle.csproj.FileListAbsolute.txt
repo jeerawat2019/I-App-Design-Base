@@ -1,0 +1,82 @@
+C:\PDLib\Components\MotionSystems\CoolMuscle\obj\Debug\CoolMuscle.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.CoolMuscle.dll
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.CoolMuscle.pdb
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.dll
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MDouble.dll
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.pdb
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MDouble.pdb
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib\Components\MotionSystems\CoolMuscle\obj\Debug\MCore.Comp.MotionSystem.CoolMuscle.dll
+C:\PDLib\Components\MotionSystems\CoolMuscle\obj\Debug\MCore.Comp.MotionSystem.CoolMuscle.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.CoolMuscle.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.CoolMuscle.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\obj\Debug\MCore.Comp.MotionSystem.CoolMuscle.dll
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\obj\Debug\MCore.Comp.MotionSystem.CoolMuscle.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.CoolMuscle.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.CoolMuscle.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\obj\Debug\CoolMuscle.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\obj\Debug\MCore.Comp.MotionSystem.CoolMuscle.dll
+C:\PDLib Laser Lappin\Components\MotionSystems\CoolMuscle\obj\Debug\MCore.Comp.MotionSystem.CoolMuscle.pdb
+C:\PDLib Laser Lapping\Components\MotionSystems\CoolMuscle\obj\Debug\CoolMuscle.csprojResolveAssemblyReference.cache
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.CoolMuscle.dll
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.CoolMuscle.pdb
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.IOSystem.dll
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.dll
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.XFunc.dll
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Geometry.dll
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\Gigasoft.ProEssentials.dll
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.IOSystem.pdb
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.MotionSystem.pdb
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.XFunc.pdb
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\bin\Debug\MCore.Comp.Geometry.pdb
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\obj\Debug\CoolMuscle.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\obj\Debug\CoolMuscle.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\obj\Debug\CoolMuscle.csproj.CopyComplete
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\obj\Debug\MCore.Comp.MotionSystem.CoolMuscle.dll
+C:\PDLib Machine Template\Components\MotionSystems\CoolMuscle\obj\Debug\MCore.Comp.MotionSystem.CoolMuscle.pdb

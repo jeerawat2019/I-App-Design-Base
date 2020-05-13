@@ -1,0 +1,204 @@
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ActionCtl.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ArrowCtl.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.DecisionCtl.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SegmentCtl.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SMCtlBase.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.StartStopCtl.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SubroutineCtl.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.ActionEditorForm.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.SubroutineEditorForm.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.StopEditorForm.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.DecisionEditorForm.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.NewItemForm.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Properties.Resources.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.SMFlowChartCtlBasic.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csproj.GenerateResource.Cache
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib x64 04-Dec-2017\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\bin\Debug\MCore.dll
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\bin\Debug\MDouble.dll
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\bin\Debug\MCore.pdb
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\bin\Debug\MDouble.pdb
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ActionCtl.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ArrowCtl.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.DecisionCtl.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SegmentCtl.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SMCtlBase.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.StartStopCtl.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SubroutineCtl.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.ActionEditorForm.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.SubroutineEditorForm.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.StopEditorForm.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.DecisionEditorForm.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.NewItemForm.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Properties.Resources.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.SMFlowChartCtlBasic.resources
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csproj.GenerateResource.Cache
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib Turorial\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib\Components\SMLib\SMFlowChart\bin\Debug\MCore.dll
+C:\PDLib\Components\SMLib\SMFlowChart\bin\Debug\MDouble.dll
+C:\PDLib\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib\Components\SMLib\SMFlowChart\bin\Debug\MCore.pdb
+C:\PDLib\Components\SMLib\SMFlowChart\bin\Debug\MDouble.pdb
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ActionCtl.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ArrowCtl.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.DecisionCtl.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SegmentCtl.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SMCtlBase.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.StartStopCtl.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SubroutineCtl.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.ActionEditorForm.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.SubroutineEditorForm.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.StopEditorForm.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.DecisionEditorForm.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.NewItemForm.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Properties.Resources.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.SMFlowChartCtlBasic.resources
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csproj.GenerateResource.Cache
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\bin\Debug\MCore.dll
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\bin\Debug\MDouble.dll
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\bin\Debug\MCore.pdb
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\bin\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csprojResolveAssemblyReference.cache
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ActionCtl.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ArrowCtl.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.DecisionCtl.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SegmentCtl.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SMCtlBase.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.StartStopCtl.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SubroutineCtl.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.ActionEditorForm.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.SubroutineEditorForm.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.StopEditorForm.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.DecisionEditorForm.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.NewItemForm.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Properties.Resources.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.SMFlowChartCtlBasic.resources
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csproj.GenerateResource.Cache
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib MDD Chart\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csproj.CoreCompileInputs.cache
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ActionCtl.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ArrowCtl.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.DecisionCtl.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SegmentCtl.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SMCtlBase.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.StartStopCtl.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SubroutineCtl.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.ActionEditorForm.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.SubroutineEditorForm.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.StopEditorForm.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.DecisionEditorForm.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.NewItemForm.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Properties.Resources.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.SMFlowChartCtlBasic.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.TransitionEditorForm.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.TransitionCtl.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ActTransCtl.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.TransitionEditorCtrlV2.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.ActTransEditorFormV2.resources
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\bin\Debug\MCore.dll
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ActTransCtl.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.TransitionCtl.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ActionCtl.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ArrowCtl.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.DecisionCtl.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SegmentCtl.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SMCtlBase.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.StartStopCtl.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SubroutineCtl.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.ActTransEditorFormV2.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.ActionEditorForm.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.TransitionEditorCtrlV2.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.TransitionEditorForm.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.SubroutineEditorForm.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.StopEditorForm.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.DecisionEditorForm.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.NewItemForm.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Properties.Resources.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.SMFlowChartCtlBasic.resources
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csproj.GenerateResource.Cache
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib Laser Lappin\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib Laser Lapping\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.SMFlowChartOperateBasic.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.SMFlowChart.pdb
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ActTransCtl.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.TransitionCtl.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ActionCtl.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.ArrowCtl.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.DecisionCtl.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SegmentCtl.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SMCtlBase.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.StartStopCtl.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Controls.SubroutineCtl.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.ActTransEditorFormV2.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.ActionEditorForm.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.GridEditForm.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.TransitionEditorCtrlV2.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.TransitionEditorForm.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.SubroutineEditorForm.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.StopEditorForm.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.DecisionEditorForm.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.EditForms.NewItemForm.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.Properties.Resources.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.SMContainerPanel.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.SMFlowChartOperateBasic.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.SMFlowChartCtlBasic.resources
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csproj.GenerateResource.cache
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\SMFlowChart.csproj.CopyComplete
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.dll
+C:\PDLib Machine Template\Components\SMLib\SMFlowChart\obj\Debug\MCore.Comp.SMLib.SMFlowChart.pdb

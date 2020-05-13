@@ -1,0 +1,80 @@
+C:\PDLib x64 04-Dec-2017\Components\SMLib\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib x64 04-Dec-2017\Components\SMLib\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib x64 04-Dec-2017\Components\SMLib\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\SMLib\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\SMLib\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\SMLib\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\SMLib\obj\Debug\SMLib.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\SMLib\obj\Debug\MCore.Comp.SMLib.SMFlowChartCtlBase.resources
+C:\PDLib x64 04-Dec-2017\Components\SMLib\obj\Debug\SMLib.csproj.GenerateResource.Cache
+C:\PDLib x64 04-Dec-2017\Components\SMLib\obj\Debug\MCore.Comp.SMLib.dll
+C:\PDLib x64 04-Dec-2017\Components\SMLib\obj\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Turorial\Components\SMLib\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Turorial\Components\SMLib\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Turorial\Components\SMLib\bin\Debug\MCore.dll
+C:\PDLib Turorial\Components\SMLib\bin\Debug\MDouble.dll
+C:\PDLib Turorial\Components\SMLib\bin\Debug\MCore.pdb
+C:\PDLib Turorial\Components\SMLib\bin\Debug\MDouble.pdb
+C:\PDLib Turorial\Components\SMLib\obj\Debug\SMLib.csprojResolveAssemblyReference.cache
+C:\PDLib Turorial\Components\SMLib\obj\Debug\MCore.Comp.SMLib.SMFlowChartCtlBase.resources
+C:\PDLib Turorial\Components\SMLib\obj\Debug\SMLib.csproj.GenerateResource.Cache
+C:\PDLib Turorial\Components\SMLib\obj\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Turorial\Components\SMLib\obj\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib\Components\SMLib\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib\Components\SMLib\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib\Components\SMLib\bin\Debug\MCore.dll
+C:\PDLib\Components\SMLib\bin\Debug\MDouble.dll
+C:\PDLib\Components\SMLib\bin\Debug\MCore.pdb
+C:\PDLib\Components\SMLib\bin\Debug\MDouble.pdb
+C:\PDLib\Components\SMLib\obj\Debug\SMLib.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\SMLib\obj\Debug\MCore.Comp.SMLib.SMFlowChartCtlBase.resources
+C:\PDLib\Components\SMLib\obj\Debug\SMLib.csproj.GenerateResource.Cache
+C:\PDLib\Components\SMLib\obj\Debug\MCore.Comp.SMLib.dll
+C:\PDLib\Components\SMLib\obj\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib MDD Chart\Components\SMLib\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib MDD Chart\Components\SMLib\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib MDD Chart\Components\SMLib\bin\Debug\MCore.dll
+C:\PDLib MDD Chart\Components\SMLib\bin\Debug\MDouble.dll
+C:\PDLib MDD Chart\Components\SMLib\bin\Debug\MCore.pdb
+C:\PDLib MDD Chart\Components\SMLib\bin\Debug\MDouble.pdb
+C:\PDLib MDD Chart\Components\SMLib\obj\Debug\SMLib.csprojResolveAssemblyReference.cache
+C:\PDLib MDD Chart\Components\SMLib\obj\Debug\MCore.Comp.SMLib.SMFlowChartCtlBase.resources
+C:\PDLib MDD Chart\Components\SMLib\obj\Debug\SMLib.csproj.GenerateResource.Cache
+C:\PDLib MDD Chart\Components\SMLib\obj\Debug\MCore.Comp.SMLib.dll
+C:\PDLib MDD Chart\Components\SMLib\obj\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib MDD Chart\Components\SMLib\obj\Debug\SMLib.csproj.CoreCompileInputs.cache
+C:\PDLib Laser Lapping\Components\SMLib\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Laser Lapping\Components\SMLib\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Laser Lapping\Components\SMLib\bin\Debug\MCore.dll
+C:\PDLib Laser Lapping\Components\SMLib\bin\Debug\MDouble.dll
+C:\PDLib Laser Lapping\Components\SMLib\bin\Debug\MCore.pdb
+C:\PDLib Laser Lapping\Components\SMLib\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lapping\Components\SMLib\obj\Debug\SMLib.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\SMLib\obj\Debug\MCore.Comp.SMLib.SMFlowChartCtlBase.resources
+C:\PDLib Laser Lapping\Components\SMLib\obj\Debug\SMLib.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\SMLib\obj\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Laser Lapping\Components\SMLib\obj\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Laser Lappin\Components\SMLib\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Laser Lappin\Components\SMLib\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Laser Lappin\Components\SMLib\bin\Debug\MCore.dll
+C:\PDLib Laser Lappin\Components\SMLib\bin\Debug\MDouble.dll
+C:\PDLib Laser Lappin\Components\SMLib\bin\Debug\MCore.pdb
+C:\PDLib Laser Lappin\Components\SMLib\bin\Debug\MDouble.pdb
+C:\PDLib Laser Lappin\Components\SMLib\obj\Debug\SMLib.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lappin\Components\SMLib\obj\Debug\MCore.Comp.SMLib.SMFlowChartCtlBase.resources
+C:\PDLib Laser Lappin\Components\SMLib\obj\Debug\SMLib.csproj.GenerateResource.Cache
+C:\PDLib Laser Lappin\Components\SMLib\obj\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Laser Lappin\Components\SMLib\obj\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Machine Template\Components\SMLib\bin\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Machine Template\Components\SMLib\bin\Debug\MCore.Comp.SMLib.pdb
+C:\PDLib Machine Template\Components\SMLib\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\SMLib\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\SMLib\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\SMLib\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\SMLib\obj\Debug\SMLib.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Components\SMLib\obj\Debug\MCore.Comp.SMLib.SMFlowChartCtlBase.resources
+C:\PDLib Machine Template\Components\SMLib\obj\Debug\SMLib.csproj.GenerateResource.cache
+C:\PDLib Machine Template\Components\SMLib\obj\Debug\SMLib.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\SMLib\obj\Debug\SMLib.csproj.CopyComplete
+C:\PDLib Machine Template\Components\SMLib\obj\Debug\MCore.Comp.SMLib.dll
+C:\PDLib Machine Template\Components\SMLib\obj\Debug\MCore.Comp.SMLib.pdb

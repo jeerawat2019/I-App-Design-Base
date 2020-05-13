@@ -1,0 +1,10 @@
+SCC = This is a Source Code Control file.
+
+[ModbusTcpIO.csproj]
+SCC_Aux_Path = 
+SCC_Project_Name = $/USN/CommonLib/Comp/IOSystem/ModbusTcpIO
+
+[ModbusTcpIO.sln]
+SCC_Aux_Path = 
+SCC_Project_Name = $/USN/CommonLib/Comp/IOSystem/ModbusTcpIO
+

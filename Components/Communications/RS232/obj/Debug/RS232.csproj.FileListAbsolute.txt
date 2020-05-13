@@ -1,0 +1,35 @@
+C:\PDLib\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.R232.dll
+C:\PDLib\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.R232.pdb
+C:\PDLib\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\Components\Communications\RS232\bin\Debug\MCore.dll
+C:\PDLib\Components\Communications\RS232\bin\Debug\MDouble.dll
+C:\PDLib\Components\Communications\RS232\bin\Debug\MCore.pdb
+C:\PDLib\Components\Communications\RS232\bin\Debug\MDouble.pdb
+C:\PDLib\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib\Components\Communications\RS232\obj\Debug\RS232.csprojResolveAssemblyReference.cache
+C:\PDLib\Components\Communications\RS232\obj\Debug\MCore.Comp.Communications.R232.dll
+C:\PDLib\Components\Communications\RS232\obj\Debug\MCore.Comp.Communications.R232.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.R232.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.R232.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\bin\Debug\MCore.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\bin\Debug\MDouble.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\bin\Debug\MCore.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\bin\Debug\MDouble.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\obj\Debug\RS232.csprojResolveAssemblyReference.cache
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\obj\Debug\MCore.Comp.Communications.R232.dll
+C:\PDLib x64 04-Dec-2017\Components\Communications\RS232\obj\Debug\MCore.Comp.Communications.R232.pdb
+C:\PDLib Machine Template\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.R232.dll
+C:\PDLib Machine Template\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.R232.pdb
+C:\PDLib Machine Template\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib Machine Template\Components\Communications\RS232\bin\Debug\MCore.dll
+C:\PDLib Machine Template\Components\Communications\RS232\bin\Debug\MDouble.dll
+C:\PDLib Machine Template\Components\Communications\RS232\bin\Debug\MCore.pdb
+C:\PDLib Machine Template\Components\Communications\RS232\bin\Debug\MDouble.pdb
+C:\PDLib Machine Template\Components\Communications\RS232\bin\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib Machine Template\Components\Communications\RS232\obj\Debug\RS232.csprojAssemblyReference.cache
+C:\PDLib Machine Template\Components\Communications\RS232\obj\Debug\RS232.csproj.CoreCompileInputs.cache
+C:\PDLib Machine Template\Components\Communications\RS232\obj\Debug\RS232.csproj.CopyComplete
+C:\PDLib Machine Template\Components\Communications\RS232\obj\Debug\MCore.Comp.Communications.R232.dll
+C:\PDLib Machine Template\Components\Communications\RS232\obj\Debug\MCore.Comp.Communications.R232.pdb

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62EB52CE-B320-4F1C-A6C1-896B0E36DA8C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MCore.Comp.ScanSystem</RootNamespace>
+    <AssemblyName>MCore.Comp.ScanSystem.SLLaserDesk</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SLLaserDesk.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SLLaserDeskTcp.cs" />
+    <Compile Include="SLLaserDeskUtility.cs" />
+    <Compile Include="SLLaserDeskWrapperCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SLLaserDeskWrapperCtrl.Designer.cs">
+      <DependentUpon>SLLaserDeskWrapperCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SLStatusCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SLStatusCtrl.Designer.cs">
+      <DependentUpon>SLStatusCtrl.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\MCore\MCore.csproj">
+      <Project>{030d34ac-c049-458e-b87f-cba36ee2a23c}</Project>
+      <Name>MCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Core\MDouble\MDouble.csproj">
+      <Project>{1c2d95c3-15d2-445d-8f4e-6ce9a779cd84}</Project>
+      <Name>MDouble</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Communications\CommunicationBase\CommunicationBase.csproj">
+      <Project>{1fa80e64-1394-42f1-88e6-a4adf533f49e}</Project>
+      <Name>CommunicationBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Communications\TCPIP\TCPIP.csproj">
+      <Project>{393ca60a-1633-4a23-801f-fbff21866282}</Project>
+      <Name>TCPIP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\IOSystems\IOSystemBase\IOSystemBase.csproj">
+      <Project>{98a92940-2ab7-47e0-873a-73d3246dd960}</Project>
+      <Name>IOSystemBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\MotionSystems\MotionSystemBase\MotionSystemBase.csproj">
+      <Project>{a52e042e-edbf-474c-86bf-cbfc1ebce0f0}</Project>
+      <Name>MotionSystemBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScanSystemBase\ScanSystemBase.csproj">
+      <Project>{8c8342dd-7936-4f2e-9390-966a39271744}</Project>
+      <Name>ScanSystemBase</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="SLLaserDeskWrapperCtrl.resx">
+      <DependentUpon>SLLaserDeskWrapperCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SLStatusCtrl.resx">
+      <DependentUpon>SLStatusCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>COPY "$(TargetDir)$(TargetFileName)" "C:\PDLib Laser Lapping\Laser Lapping\PlugIn\"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

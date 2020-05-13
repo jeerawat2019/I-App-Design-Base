@@ -1,0 +1,17 @@
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.pdb
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\MPT.USN.CommonLib.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\System.Windows.Forms.TreeListView.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\NumericalRecipes.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\Gigasoft.ProEssentials.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\System.Runtime.InteropServices.APIs.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\MPT.USN.CommonLib.pdb
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\MPT.USN.CommonLib.xml
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\bin\Debug\Gigasoft.ProEssentials.xml
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.YamahaTrServoPage.resources
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.YamahaTrServoSetupPage.resources
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.dll
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\MPT.USN.CommonLib.Comp.MotionSystem.YamahaTrServo.pdb
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\YamahaTrServo.csprojResolveAssemblyReference.cache
+C:\MPT\USN\CommonLib\Comp\MotionSystem\YamahaTrServo\obj\Debug\YamahaTrServo.csproj.GenerateResource.Cache

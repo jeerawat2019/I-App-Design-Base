@@ -1,0 +1,17 @@
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\bin\Release\MCore.Comp.IOSystem.dll
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\bin\Release\MCore.Comp.IOSystem.pdb
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\bin\Release\MCore.Comp.XFunc.dll
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\bin\Release\MCore.dll
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\bin\Release\MDouble.dll
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\bin\Release\Gigasoft.ProEssentials.dll
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\bin\Release\MCore.pdb
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\bin\Release\MDouble.pdb
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\bin\Release\MCore.Comp.XFunc.pdb
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\obj\Release\IOSystemBase.csprojResolveAssemblyReference.cache
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\obj\Release\MCore.Comp.IOSystem.CompMeasureCtl.resources
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\obj\Release\MCore.Comp.IOSystem.Input.Array2DInputCtl.resources
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\obj\Release\MCore.Comp.IOSystem.Input.BoolInputsCtl.resources
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\obj\Release\MCore.Comp.IOSystem.Output.BoolOutputsCtl.resources
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\obj\Release\IOSystemBase.csproj.GenerateResource.Cache
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\obj\Release\MCore.Comp.IOSystem.dll
+C:\PDLib Laser Lapping\Components\IOSystems\IOSystemBase\obj\Release\MCore.Comp.IOSystem.pdb

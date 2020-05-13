@@ -1,0 +1,11 @@
+C:\PDLib\Components\Communications\CommunicationBase\bin\x64\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\Components\Communications\CommunicationBase\bin\x64\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib\Components\Communications\CommunicationBase\bin\x64\Debug\MCore.dll
+C:\PDLib\Components\Communications\CommunicationBase\bin\x64\Debug\MDouble.dll
+C:\PDLib\Components\Communications\CommunicationBase\bin\x64\Debug\MCore.pdb
+C:\PDLib\Components\Communications\CommunicationBase\bin\x64\Debug\MDouble.pdb
+C:\PDLib\Components\Communications\CommunicationBase\obj\x64\Debug\MCore.Comp.Communications.Terminal.resources
+C:\PDLib\Components\Communications\CommunicationBase\obj\x64\Debug\CommunicationBase.csproj.GenerateResource.Cache
+C:\PDLib\Components\Communications\CommunicationBase\obj\x64\Debug\MCore.Comp.Communications.CommunicationBase.dll
+C:\PDLib\Components\Communications\CommunicationBase\obj\x64\Debug\MCore.Comp.Communications.CommunicationBase.pdb
+C:\PDLib\Components\Communications\CommunicationBase\obj\x64\Debug\CommunicationBase.csprojResolveAssemblyReference.cache
